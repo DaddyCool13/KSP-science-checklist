@@ -1,0 +1,8052 @@
+		Science
+		{
+			id = @KerbinSrfLanded
+			title = von der Oberfläche von Kerbin
+			dsc = 0
+			scv = 1
+			sbv = 0.300000012
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedLaunchPad
+			title = Oberflächenprobe von Startrampe
+			dsc = 1
+			scv = 6.10351563E-05
+			sbv = 0.300000012
+			sci = 11.9992676
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedLaunchPad
+			title = EVA-Bericht von Startrampe
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = evaScience@KerbinSrfLanded
+			title = EVA-Forschungsexperiment von der Oberfläche von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 7.50000048
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedShores
+			title = Oberflächenprobe von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 12
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedShores
+			title = EVA-Bericht von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedLaunchPad
+			title = Crewbericht von Startrampe
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedLaunchPad
+			title = Mysteriöser Schleim™-Beobachtung von Startrampe
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.9000001
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowShores
+			title = Crewbericht Flug über Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinFlyingLow
+			title = Mysteriöser Schleim™-Beobachtung beim Flug auf Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 9.09999943
+			asc = True
+			cap = 9.09999943
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedAdministration
+			title = Crewbericht von Verwaltung
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedAdministration
+			title = Mysteriöser Schleim™-Beobachtung von Verwaltung
+			dsc = 1
+			scv = 1.22265931E-07
+			sbv = 0.300000012
+			sci = 3.89999962
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedAdministration
+			title = Oberflächenprobe von Verwaltung
+			dsc = 1
+			scv = 0.0009765625
+			sbv = 0.300000012
+			sci = 11.9882813
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedAdministration
+			title = EVA-Bericht von Verwaltung
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = recovery@KerbinFlew
+			title = Bergung eines Raumfahrzeugs, das einen Flug überlebt hat.
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 6
+			asc = True
+			cap = 6
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedLaunchPad
+			title = Atmosphärendruck-Scan von Startrampe
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedLaunchPad
+			title = Temperaturscan von Startrampe
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinFlyingLow
+			title = Atmosphärendruck-Scan beim Flug auf Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 8.39999962
+			asc = True
+			cap = 8.39999962
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowShores
+			title = Temperaturscan Flug über Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedSPH
+			title = Crewbericht von RSH
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedSPH
+			title = Mysteriöser Schleim™-Beobachtung von RSH
+			dsc = 1
+			scv = 4.27930786E-07
+			sbv = 0.300000012
+			sci = 3.89999843
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedSPH
+			title = Atmosphärendruck-Scan von RSH
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedSPH
+			title = Temperaturscan von RSH
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingHigh
+			title = Crewbericht aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.899999976
+			sci = 4.5
+			asc = True
+			cap = 4.5
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingHigh
+			title = Temperaturscan aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.899999976
+			sci = 7.19999981
+			asc = True
+			cap = 7.19999981
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinFlyingHigh
+			title = Mysteriöser Schleim™-Beobachtung aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.899999976
+			sci = 11.6999998
+			asc = True
+			cap = 11.6999998
+		}
+		Science
+		{
+			id = barometerScan@KerbinFlyingHigh
+			title = Atmosphärendruck-Scan aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.899999976
+			sci = 10.7999992
+			asc = True
+			cap = 10.7999992
+		}
+		Science
+		{
+			id = crewReport@KerbinInSpaceLow
+			title = Crewbericht im Weltraum in der Nähe von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 5
+			asc = True
+			cap = 5
+		}
+		Science
+		{
+			id = temperatureScan@KerbinInSpaceLow
+			title = Temperaturscan im Weltraum in der Nähe von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinInSpaceLow
+			title = Mysteriöser Schleim™-Beobachtung im Weltraum in der Nähe von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 13
+			asc = True
+			cap = 13
+		}
+		Science
+		{
+			id = barometerScan@KerbinInSpaceLow
+			title = Atmosphärendruck-Scan im Weltraum in der Nähe von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 12
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowGrasslands
+			title = Crewbericht Flug über Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedGrasslands
+			title = Crewbericht von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedGrasslands
+			title = Oberflächenprobe von Kerbins Grasland
+			dsc = 1
+			scv = 1.52587891E-05
+			sbv = 0.300000012
+			sci = 11.9998169
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedGrasslands
+			title = EVA-Bericht von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = recovery@KerbinSubOrbited
+			title = Bergung eines Raumfahrzeugs, das in einer suborbitalen Umlaufbahn über Kerbin war.
+			dsc = 1
+			scv = 0
+			sbv = 8
+			sci = 9.60000038
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowWater
+			title = Crewbericht Flug über Kerbins Wasser
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfSplashedWater
+			title = Crewbericht von Kerbins Wasser
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 2
+			asc = True
+			cap = 2
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfSplashedWater
+			title = Oberflächenprobe von Kerbins Wasser
+			dsc = 1
+			scv = 0.0009765625
+			sbv = 0.400000006
+			sci = 15.984375
+			asc = True
+			cap = 16
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfSplashedWater
+			title = EVA-Bericht von Kerbins Wasser
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 3.20000005
+			asc = True
+			cap = 3.20000005
+		}
+		Science
+		{
+			id = evaScience@KerbinSrfSplashed
+			title = EVA-Forschungsexperiment aus den Ozeanen von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 10
+			asc = True
+			cap = 10
+		}
+		Science
+		{
+			id = @KerbinSrfSplashed
+			title = aus den Ozeanen von Kerbin
+			dsc = 0
+			scv = 1
+			sbv = 0.400000006
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedCrawlerway
+			title = Crewbericht von Crawlerway
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedCrawlerway
+			title = Mysteriöser Schleim™-Beobachtung von Crawlerway
+			dsc = 1
+			scv = 1.83398902E-06
+			sbv = 0.300000012
+			sci = 3.89999294
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedCrawlerway
+			title = Atmosphärendruck-Scan von Crawlerway
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedCrawlerway
+			title = Temperaturscan von Crawlerway
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfSplashedShores
+			title = Crewbericht von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 2
+			asc = True
+			cap = 2
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfSplashedShores
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Küsten
+			dsc = 1
+			scv = 0.000151028988
+			sbv = 0.400000006
+			sci = 5.19921494
+			asc = True
+			cap = 5.20000029
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfSplashedShores
+			title = Atmosphärendruck-Scan von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 4.80000019
+			asc = True
+			cap = 4.80000019
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfSplashedShores
+			title = Temperaturscan von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 3.20000005
+			asc = True
+			cap = 3.20000005
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfSplashedShores
+			title = Oberflächenprobe von Kerbins Küsten
+			dsc = 1
+			scv = 0.000244140625
+			sbv = 0.400000006
+			sci = 15.9960938
+			asc = True
+			cap = 16
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfSplashedShores
+			title = EVA-Bericht von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 3.20000005
+			asc = True
+			cap = 3.20000005
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedLaunchPad
+			title = Materialuntersuchung von Startrampe
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 9.60000038
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinFlyingLow
+			title = Materialuntersuchung beim Flug auf Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 22.3999996
+			asc = True
+			cap = 22.3999996
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowWater
+			title = Temperaturscan Flug über Kerbins Wasser
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfSplashedWater
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Wasser
+			dsc = 1
+			scv = 8.06955177E-06
+			sbv = 0.400000006
+			sci = 5.19995832
+			asc = True
+			cap = 5.20000029
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfSplashedWater
+			title = Atmosphärendruck-Scan von Kerbins Wasser
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 4.80000019
+			asc = True
+			cap = 4.80000019
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfSplashedWater
+			title = Temperaturscan von Kerbins Wasser
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 3.20000005
+			asc = True
+			cap = 3.20000005
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfSplashedWater
+			title = Materialuntersuchung von Kerbins Wasser
+			dsc = 1
+			scv = 2.39908695E-05
+			sbv = 0.400000006
+			sci = 12.7996931
+			asc = True
+			cap = 12.8000002
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedRunway
+			title = Materialuntersuchung von Startbahn
+			dsc = 1
+			scv = 9.93410723E-08
+			sbv = 0.300000012
+			sci = 9.59999943
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedRunway
+			title = Crewbericht von Startbahn
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedSPH
+			title = Materialuntersuchung von RSH
+			dsc = 1
+			scv = 2.39411984E-05
+			sbv = 0.300000012
+			sci = 9.59977055
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedRunway
+			title = Mysteriöser Schleim™-Beobachtung von Startbahn
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.9000001
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedRunway
+			title = Temperaturscan von Startbahn
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedRunway
+			title = Atmosphärendruck-Scan von Startbahn
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedSPHMainBuilding
+			title = Crewbericht von RSH-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedSPHMainBuilding
+			title = Materialuntersuchung von RSH-Hauptgebäude
+			dsc = 1
+			scv = 0.00228981161
+			sbv = 0.300000012
+			sci = 9.57801819
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedSPHMainBuilding
+			title = Mysteriöser Schleim™-Beobachtung von RSH-Hauptgebäude
+			dsc = 1
+			scv = 0.000151059561
+			sbv = 0.300000012
+			sci = 3.89941096
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedSPHMainBuilding
+			title = Temperaturscan von RSH-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedSPHMainBuilding
+			title = Atmosphärendruck-Scan von RSH-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedMissionControl
+			title = Crewbericht von Missionszentrum
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedMissionControl
+			title = Materialuntersuchung von Missionszentrum
+			dsc = 1
+			scv = 2.39411984E-05
+			sbv = 0.300000012
+			sci = 9.59977055
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedMissionControl
+			title = Mysteriöser Schleim™-Beobachtung von Missionszentrum
+			dsc = 1
+			scv = 1.83398902E-06
+			sbv = 0.300000012
+			sci = 3.89999294
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedMissionControl
+			title = Temperaturscan von Missionszentrum
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedMissionControl
+			title = Atmosphärendruck-Scan von Missionszentrum
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedKSC
+			title = Crewbericht von KWZ
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedKSC
+			title = Materialuntersuchung von KWZ
+			dsc = 1
+			scv = 2.98023224E-07
+			sbv = 0.300000012
+			sci = 9.59999752
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedKSC
+			title = Mysteriöser Schleim™-Beobachtung von KWZ
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.9000001
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedKSC
+			title = Temperaturscan von KWZ
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedKSC
+			title = Atmosphärendruck-Scan von KWZ
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedVAB
+			title = Crewbericht von FZF
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedVAB
+			title = Materialuntersuchung von FZF
+			dsc = 1
+			scv = 1.1920929E-06
+			sbv = 0.300000012
+			sci = 9.59998894
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedVAB
+			title = Mysteriöser Schleim™-Beobachtung von FZF
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.9000001
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedVAB
+			title = Temperaturscan von FZF
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedVAB
+			title = Atmosphärendruck-Scan von FZF
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedCrawlerway
+			title = Materialuntersuchung von Crawlerway
+			dsc = 1
+			scv = 0.000500877679
+			sbv = 0.300000012
+			sci = 9.59519196
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedShores
+			title = Crewbericht von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedShores
+			title = Materialuntersuchung von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 9.60000038
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedShores
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.9000001
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedShores
+			title = Temperaturscan von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedShores
+			title = Atmosphärendruck-Scan von Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowGrasslands
+			title = Temperaturscan Flug über Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedGrasslands
+			title = Temperaturscan von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedGrasslands
+			title = Atmosphärendruck-Scan von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedRunway
+			title = Oberflächenprobe von Startbahn
+			dsc = 1
+			scv = 9.53674316E-07
+			sbv = 0.300000012
+			sci = 11.9999886
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedRunway
+			title = EVA-Bericht von Startbahn
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedAdministration
+			title = Materialuntersuchung von Verwaltung
+			dsc = 1
+			scv = 2.39411984E-05
+			sbv = 0.300000012
+			sci = 9.59977055
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedAdministration
+			title = Temperaturscan von Verwaltung
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedAdministration
+			title = Atmosphärendruck-Scan von Verwaltung
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedAstronautComplex
+			title = Crewbericht von Astronauten-Komplex
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedAstronautComplex
+			title = Materialuntersuchung von Astronauten-Komplex
+			dsc = 1
+			scv = 2.39411984E-05
+			sbv = 0.300000012
+			sci = 9.59977055
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedAstronautComplex
+			title = Mysteriöser Schleim™-Beobachtung von Astronauten-Komplex
+			dsc = 1
+			scv = 4.27930786E-07
+			sbv = 0.300000012
+			sci = 3.89999843
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedAstronautComplex
+			title = Temperaturscan von Astronauten-Komplex
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedAstronautComplex
+			title = Atmosphärendruck-Scan von Astronauten-Komplex
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedFlagPole
+			title = Crewbericht von Fahnenmast
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedFlagPole
+			title = Materialuntersuchung von Fahnenmast
+			dsc = 1
+			scv = 0.0001095732
+			sbv = 0.300000012
+			sci = 9.59894848
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedFlagPole
+			title = Mysteriöser Schleim™-Beobachtung von Fahnenmast
+			dsc = 1
+			scv = 1.83398902E-06
+			sbv = 0.300000012
+			sci = 3.89999294
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedFlagPole
+			title = Temperaturscan von Fahnenmast
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedFlagPole
+			title = Atmosphärendruck-Scan von Fahnenmast
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&D
+			title = Crewbericht von F&E
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedR&D
+			title = Materialuntersuchung von F&E
+			dsc = 1
+			scv = 5.26507665E-06
+			sbv = 0.300000012
+			sci = 9.59994984
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&D
+			title = Mysteriöser Schleim™-Beobachtung von F&E
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.9000001
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&D
+			title = Temperaturscan von F&E
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&D
+			title = Atmosphärendruck-Scan von F&E
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&DMainBuilding
+			title = Crewbericht von F&E-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedR&DMainBuilding
+			title = Materialuntersuchung von F&E-Hauptgebäude
+			dsc = 1
+			scv = 0.0001095732
+			sbv = 0.300000012
+			sci = 9.59894848
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&DMainBuilding
+			title = Mysteriöser Schleim™-Beobachtung von F&E-Hauptgebäude
+			dsc = 1
+			scv = 1.83398902E-06
+			sbv = 0.300000012
+			sci = 3.89999294
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&DMainBuilding
+			title = Temperaturscan von F&E-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&DMainBuilding
+			title = Atmosphärendruck-Scan von F&E-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&DCornerLab
+			title = Crewbericht von F&E-Ecklabor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedR&DCornerLab
+			title = Materialuntersuchung von F&E-Ecklabor
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&DCornerLab
+			title = Mysteriöser Schleim™-Beobachtung von F&E-Ecklabor
+			dsc = 1
+			scv = 0.0028360195
+			sbv = 0.300000012
+			sci = 3.88893962
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&DCornerLab
+			title = Temperaturscan von F&E-Ecklabor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&DCornerLab
+			title = Atmosphärendruck-Scan von F&E-Ecklabor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedTrackingStation
+			title = Crewbericht von Ortungsstation
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedTrackingStation
+			title = Materialuntersuchung von Ortungsstation
+			dsc = 1
+			scv = 2.39411984E-05
+			sbv = 0.300000012
+			sci = 9.59977055
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedTrackingStation
+			title = Mysteriöser Schleim™-Beobachtung von Ortungsstation
+			dsc = 1
+			scv = 4.27930786E-07
+			sbv = 0.300000012
+			sci = 3.89999843
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedTrackingStation
+			title = Temperaturscan von Ortungsstation
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedTrackingStation
+			title = Atmosphärendruck-Scan von Ortungsstation
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedTrackingStationHub
+			title = Crewbericht von Ortungsstation-Zentrale
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedTrackingStationHub
+			title = Materialuntersuchung von Ortungsstation-Zentrale
+			dsc = 1
+			scv = 0.000500877679
+			sbv = 0.300000012
+			sci = 9.59519196
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedTrackingStationHub
+			title = Mysteriöser Schleim™-Beobachtung von Ortungsstation-Zentrale
+			dsc = 1
+			scv = 8.06955177E-06
+			sbv = 0.300000012
+			sci = 3.89996862
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedTrackingStationHub
+			title = Temperaturscan von Ortungsstation-Zentrale
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedTrackingStationHub
+			title = Atmosphärendruck-Scan von Ortungsstation-Zentrale
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinFlyingHigh
+			title = Materialuntersuchung aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.899999976
+			sci = 28.7999992
+			asc = True
+			cap = 28.7999992
+		}
+		Science
+		{
+			id = @KerbinFlyingLow
+			title = beim Flug auf Kerbin
+			dsc = 0
+			scv = 1
+			sbv = 0.699999988
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedGrasslands
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.9000001
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedGrasslands
+			title = Materialuntersuchung von Kerbins Grasland
+			dsc = 1
+			scv = 2.98023224E-07
+			sbv = 0.300000012
+			sci = 9.59999752
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfSplashedShores
+			title = Materialuntersuchung von Kerbins Küsten
+			dsc = 1
+			scv = 0.00228978693
+			sbv = 0.400000006
+			sci = 12.7706909
+			asc = True
+			cap = 12.8000002
+		}
+		Science
+		{
+			id = crewReport@KerbinInSpaceHigh
+			title = Crewbericht im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1.5
+			sci = 7.5
+			asc = True
+			cap = 7.5
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowHighlands
+			title = Crewbericht Flug über Kerbins Hochland
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowHighlands
+			title = Temperaturscan Flug über Kerbins Hochland
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowMountains
+			title = Crewbericht Flug über Kerbins Berge
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowMountains
+			title = Temperaturscan Flug über Kerbins Berge
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedMountains
+			title = Crewbericht von Kerbins Berge
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedMountains
+			title = Atmosphärendruck-Scan von Kerbins Berge
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedMountains
+			title = Temperaturscan von Kerbins Berge
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedMountains
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Berge
+			dsc = 1
+			scv = 0.230769247
+			sbv = 0.300000012
+			sci = 3
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedMountains
+			title = Materialuntersuchung von Kerbins Berge
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedMountains
+			title = Oberflächenprobe von Kerbins Berge
+			dsc = 1
+			scv = 0.25
+			sbv = 0.300000012
+			sci = 9
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedMountains
+			title = EVA-Bericht von Kerbins Berge
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedIslandAirfield
+			title = Crewbericht von Island Airfield
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedIslandAirfield
+			title = Atmosphärendruck-Scan von Island Airfield
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedIslandAirfield
+			title = Temperaturscan von Island Airfield
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedIslandAirfield
+			title = Mysteriöser Schleim™-Beobachtung von Island Airfield
+			dsc = 1
+			scv = 8.06955177E-06
+			sbv = 0.300000012
+			sci = 3.89996862
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedIslandAirfield
+			title = Materialuntersuchung von Island Airfield
+			dsc = 1
+			scv = 5.26507665E-06
+			sbv = 0.300000012
+			sci = 9.59994984
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedHighlands
+			title = Crewbericht von Kerbins Hochland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedHighlands
+			title = Oberflächenprobe von Kerbins Hochland
+			dsc = 1
+			scv = 0.00390625
+			sbv = 0.300000012
+			sci = 11.953125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedHighlands
+			title = EVA-Bericht von Kerbins Hochland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinFlyingLow
+			title = Oberflächenprobe beim Flug auf Kerbin
+			dsc = 1
+			scv = 1
+			sbv = 0.699999988
+			sci = 0
+			asc = True
+			cap = 28
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowHighlands
+			title = EVA-Bericht Flug über Kerbins Hochland
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = evaScience@KerbinFlyingLow
+			title = EVA-Forschungsexperiment beim Flug auf Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 17.5
+			asc = True
+			cap = 17.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinInSpaceLow
+			title = Materialuntersuchung im Weltraum in der Nähe von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = temperatureScan@KerbinInSpaceHigh
+			title = Temperaturscan im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1.5
+			sci = 12
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinInSpaceHigh
+			title = Materialuntersuchung im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1.5
+			sci = 48
+			asc = True
+			cap = 48
+		}
+		Science
+		{
+			id = barometerScan@KerbinInSpaceHigh
+			title = Atmosphärendruck-Scan im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1.5
+			sci = 18
+			asc = True
+			cap = 18
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinInSpaceHigh
+			title = Mysteriöser Schleim™-Beobachtung im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1.5
+			sci = 19.5
+			asc = True
+			cap = 19.5
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowGrasslands
+			title = EVA-Bericht Flug über Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowDeserts
+			title = Crewbericht Flug über Kerbins Wüsten
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowDeserts
+			title = Temperaturscan Flug über Kerbins Wüsten
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedDeserts
+			title = Crewbericht von Kerbins Wüsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedDeserts
+			title = Atmosphärendruck-Scan von Kerbins Wüsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedDeserts
+			title = Temperaturscan von Kerbins Wüsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedDeserts
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Wüsten
+			dsc = 1
+			scv = 0.230769247
+			sbv = 0.300000012
+			sci = 3
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedDeserts
+			title = Materialuntersuchung von Kerbins Wüsten
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedDeserts
+			title = Oberflächenprobe von Kerbins Wüsten
+			dsc = 1
+			scv = 0.25
+			sbv = 0.300000012
+			sci = 9
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedDeserts
+			title = EVA-Bericht von Kerbins Wüsten
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowShores
+			title = EVA-Bericht Flug über Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedHighlands
+			title = Atmosphärendruck-Scan von Kerbins Hochland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedHighlands
+			title = Temperaturscan von Kerbins Hochland
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedHighlands
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Hochland
+			dsc = 1
+			scv = 0.000151059561
+			sbv = 0.300000012
+			sci = 3.89941096
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedHighlands
+			title = Materialuntersuchung von Kerbins Hochland
+			dsc = 1
+			scv = 0.000500877679
+			sbv = 0.300000012
+			sci = 9.59519196
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedMissionControl
+			title = Oberflächenprobe von Missionszentrum
+			dsc = 1
+			scv = 0.015625
+			sbv = 0.300000012
+			sci = 11.8125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedMissionControl
+			title = EVA-Bericht von Missionszentrum
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedVABMainBuilding
+			title = Crewbericht von FZF-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedVABMainBuilding
+			title = Materialuntersuchung von FZF-Hauptgebäude
+			dsc = 1
+			scv = 0.000500877679
+			sbv = 0.300000012
+			sci = 9.59519196
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedVABMainBuilding
+			title = Mysteriöser Schleim™-Beobachtung von FZF-Hauptgebäude
+			dsc = 1
+			scv = 8.06955177E-06
+			sbv = 0.300000012
+			sci = 3.89996862
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedVABMainBuilding
+			title = Temperaturscan von FZF-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedVABMainBuilding
+			title = Atmosphärendruck-Scan von FZF-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = surfaceSample@KerbinInSpaceLow
+			title = Oberflächenprobe im Weltraum in der Nähe von Kerbin
+			dsc = 1
+			scv = 1
+			sbv = 1
+			sci = 0
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowWater
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Wasser
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = evaScience@KerbinInSpaceLow
+			title = EVA-Forschungsexperiment im Weltraum in der Nähe von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 25
+			asc = True
+			cap = 25
+		}
+		Science
+		{
+			id = @KerbinInSpaceLow
+			title = im Weltraum in der Nähe von Kerbin
+			dsc = 0
+			scv = 1
+			sbv = 1
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowShores
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Küsten
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowGrasslands
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowMountains
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Berge
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowHighlands
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Hochland
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowDeserts
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Wüsten
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = recovery@KerbinOrbited
+			title = Bergung eines Raumfahrzeugs, das in einer Umlaufbahn um Kerbin war.
+			dsc = 1
+			scv = 0
+			sbv = 10
+			sci = 12
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedSPH
+			title = Oberflächenprobe von RSH
+			dsc = 1
+			scv = 0.0009765625
+			sbv = 0.300000012
+			sci = 11.9882813
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedSPH
+			title = EVA-Bericht von RSH
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedAstronautComplex
+			title = Oberflächenprobe von Astronauten-Komplex
+			dsc = 1
+			scv = 1.52587891E-05
+			sbv = 0.300000012
+			sci = 11.9998169
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedAstronautComplex
+			title = EVA-Bericht von Astronauten-Komplex
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&D
+			title = Oberflächenprobe von F&E
+			dsc = 1
+			scv = 0.000244140625
+			sbv = 0.300000012
+			sci = 11.9970703
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&D
+			title = EVA-Bericht von F&E
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowR&D
+			title = EVA-Bericht Flug über Kerbins F&E
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&DMainBuilding
+			title = Oberflächenprobe von F&E-Hauptgebäude
+			dsc = 1
+			scv = 0.00390625
+			sbv = 0.300000012
+			sci = 11.953125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&DMainBuilding
+			title = EVA-Bericht von F&E-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedCrawlerway
+			title = Oberflächenprobe von Crawlerway
+			dsc = 1
+			scv = 0.0009765625
+			sbv = 0.300000012
+			sci = 11.9882813
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedCrawlerway
+			title = EVA-Bericht von Crawlerway
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedVAB
+			title = Oberflächenprobe von FZF
+			dsc = 1
+			scv = 0.000244140625
+			sbv = 0.300000012
+			sci = 11.9970703
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedVAB
+			title = EVA-Bericht von FZF
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedVABMainBuilding
+			title = Oberflächenprobe von FZF-Hauptgebäude
+			dsc = 1
+			scv = 0.000244140625
+			sbv = 0.300000012
+			sci = 11.9970703
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedVABMainBuilding
+			title = EVA-Bericht von FZF-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedSPHMainBuilding
+			title = Oberflächenprobe von RSH-Hauptgebäude
+			dsc = 1
+			scv = 0.015625
+			sbv = 0.300000012
+			sci = 11.8125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedSPHMainBuilding
+			title = EVA-Bericht von RSH-Hauptgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedFlagPole
+			title = Oberflächenprobe von Fahnenmast
+			dsc = 1
+			scv = 6.10351563E-05
+			sbv = 0.300000012
+			sci = 11.9992676
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedFlagPole
+			title = EVA-Bericht von Fahnenmast
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedKSC
+			title = Oberflächenprobe von KWZ
+			dsc = 1
+			scv = 0.0009765625
+			sbv = 0.300000012
+			sci = 11.9882813
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedKSC
+			title = EVA-Bericht von KWZ
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedTrackingStation
+			title = Oberflächenprobe von Ortungsstation
+			dsc = 1
+			scv = 0.000244140625
+			sbv = 0.300000012
+			sci = 11.9970703
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedTrackingStation
+			title = EVA-Bericht von Ortungsstation
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowTrackingStation
+			title = EVA-Bericht Flug über Kerbins Ortungsstation
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedTrackingStationHub
+			title = Oberflächenprobe von Ortungsstation-Zentrale
+			dsc = 1
+			scv = 0.0009765625
+			sbv = 0.300000012
+			sci = 11.9882813
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedTrackingStationHub
+			title = EVA-Bericht von Ortungsstation-Zentrale
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedIslandAirfield
+			title = Oberflächenprobe von Island Airfield
+			dsc = 1
+			scv = 6.10351563E-05
+			sbv = 0.300000012
+			sci = 11.9992676
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedIslandAirfield
+			title = EVA-Bericht von Island Airfield
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowShores
+			title = Atmosphärenanalyse Flug über Kerbins Küsten
+			dsc = 10
+			scv = 0
+			sbv = 0.699999988
+			sci = 16.7999992
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowWater
+			title = Atmosphärenanalyse Flug über Kerbins Wasser
+			dsc = 10
+			scv = 0
+			sbv = 0.699999988
+			sci = 16.7999992
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighWater
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Wasser
+			dsc = 10
+			scv = 0
+			sbv = 0.899999976
+			sci = 21.5999985
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinInSpaceLow
+			title = Atmosphärenanalyse im Weltraum in der Nähe von Kerbin
+			dsc = 10
+			scv = 1
+			sbv = 1
+			sci = 0
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighShores
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Küsten
+			dsc = 10
+			scv = 0
+			sbv = 0.899999976
+			sci = 21.5999985
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighGrasslands
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Grasland
+			dsc = 10
+			scv = 0
+			sbv = 0.899999976
+			sci = 21.5999985
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowGrasslands
+			title = Atmosphärenanalyse Flug über Kerbins Grasland
+			dsc = 10
+			scv = 0
+			sbv = 0.699999988
+			sci = 16.7999992
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedGrasslands
+			title = Atmosphärenanalyse von Kerbins Grasland
+			dsc = 10
+			scv = 0
+			sbv = 0.300000012
+			sci = 7.20000029
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfSplashed
+			title = Atmosphärenanalyse aus den Ozeanen von Kerbin
+			dsc = 10
+			scv = 1
+			sbv = 0.400000006
+			sci = 0
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighDeserts
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Wüsten
+			dsc = 10
+			scv = 0
+			sbv = 0.899999976
+			sci = 21.5999985
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighHighlands
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Hochland
+			dsc = 10
+			scv = 0
+			sbv = 0.899999976
+			sci = 21.5999985
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighMountains
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Berge
+			dsc = 10
+			scv = 0
+			sbv = 0.899999976
+			sci = 21.5999985
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighBadlands
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Ödland
+			dsc = 10
+			scv = 3.53212727E-06
+			sbv = 0.899999976
+			sci = 21.5999222
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowRunway
+			title = EVA-Bericht Flug über Kerbins Startbahn
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedRunway
+			title = Atmosphärenanalyse von Startbahn
+			dsc = 10
+			scv = 5.96046448E-07
+			sbv = 0.300000012
+			sci = 7.19999599
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedShores
+			title = Atmosphärenanalyse von Kerbins Küsten
+			dsc = 10
+			scv = 0
+			sbv = 0.300000012
+			sci = 7.20000029
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedAdministration
+			title = Atmosphärenanalyse von Verwaltung
+			dsc = 10
+			scv = 0.000128613567
+			sbv = 0.300000012
+			sci = 7.19907427
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedAstronautComplex
+			title = Atmosphärenanalyse von Astronauten-Komplex
+			dsc = 10
+			scv = 0.000128613567
+			sbv = 0.300000012
+			sci = 7.19907427
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedFlagPole
+			title = Atmosphärenanalyse von Fahnenmast
+			dsc = 10
+			scv = 0.000128613567
+			sbv = 0.300000012
+			sci = 7.19907427
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowAstronautComplex
+			title = EVA-Bericht Flug über Kerbins Astronauten-Komplex
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&D
+			title = Atmosphärenanalyse von F&E
+			dsc = 10
+			scv = 2.14576721E-05
+			sbv = 0.300000012
+			sci = 7.19984579
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&DMainBuilding
+			title = Atmosphärenanalyse von F&E-Hauptgebäude
+			dsc = 10
+			scv = 0.000771615189
+			sbv = 0.300000012
+			sci = 7.19444466
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedKSC
+			title = Atmosphärenanalyse von KWZ
+			dsc = 10
+			scv = 3.57627846E-06
+			sbv = 0.300000012
+			sci = 7.19997454
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedVAB
+			title = Atmosphärenanalyse von FZF
+			dsc = 10
+			scv = 2.14576721E-05
+			sbv = 0.300000012
+			sci = 7.19984579
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedTrackingStation
+			title = Atmosphärenanalyse von Ortungsstation
+			dsc = 10
+			scv = 2.14576721E-05
+			sbv = 0.300000012
+			sci = 7.19984579
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedTrackingStationHub
+			title = Atmosphärenanalyse von Ortungsstation-Zentrale
+			dsc = 10
+			scv = 0.000128613567
+			sbv = 0.300000012
+			sci = 7.19907427
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedVABMainBuilding
+			title = Atmosphärenanalyse von FZF-Hauptgebäude
+			dsc = 10
+			scv = 0.000128613567
+			sbv = 0.300000012
+			sci = 7.19907427
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedLaunchPad
+			title = Atmosphärenanalyse von Startrampe
+			dsc = 10
+			scv = 3.57627846E-06
+			sbv = 0.300000012
+			sci = 7.19997454
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinInSpaceHigh
+			title = Atmosphärenanalyse im Weltraum hoch über Kerbin
+			dsc = 10
+			scv = 1
+			sbv = 1.5
+			sci = 0
+			asc = True
+			cap = 36
+		}
+		Science
+		{
+			id = surfaceSample@KerbinInSpaceHigh
+			title = Oberflächenprobe im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 1
+			sbv = 1.5
+			sci = 0
+			asc = True
+			cap = 60
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceHigh
+			title = EVA-Bericht im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1.5
+			sci = 12
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaScience@KerbinInSpaceHigh
+			title = EVA-Forschungsexperiment im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1.5
+			sci = 37.5
+			asc = True
+			cap = 37.5
+		}
+		Science
+		{
+			id = @KerbinInSpaceHigh
+			title = im Weltraum hoch über Kerbin
+			dsc = 0
+			scv = 1
+			sbv = 1.5
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowHighlands
+			title = Atmosphärenanalyse Flug über Kerbins Hochland
+			dsc = 10
+			scv = 0
+			sbv = 0.699999988
+			sci = 16.7999992
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedHighlands
+			title = Atmosphärenanalyse von Kerbins Hochland
+			dsc = 10
+			scv = 0.000128613567
+			sbv = 0.300000012
+			sci = 7.19907427
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowWater
+			title = EVA-Bericht Flug über Kerbins Wasser
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowDeserts
+			title = Atmosphärenanalyse Flug über Kerbins Wüsten
+			dsc = 10
+			scv = 0.166666627
+			sbv = 0.699999988
+			sci = 14
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfSplashedGrasslands
+			title = Crewbericht von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 2
+			asc = True
+			cap = 2
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfSplashedGrasslands
+			title = Atmosphärendruck-Scan von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 4.80000019
+			asc = True
+			cap = 4.80000019
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfSplashedGrasslands
+			title = Temperaturscan von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 3.20000005
+			asc = True
+			cap = 3.20000005
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfSplashedGrasslands
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Grasland
+			dsc = 1
+			scv = 0.0122894682
+			sbv = 0.400000006
+			sci = 5.13609505
+			asc = True
+			cap = 5.20000029
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfSplashedGrasslands
+			title = Materialuntersuchung von Kerbins Grasland
+			dsc = 1
+			scv = 0.0104675442
+			sbv = 0.400000006
+			sci = 12.6660156
+			asc = True
+			cap = 12.8000002
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfSplashedGrasslands
+			title = Oberflächenprobe von Kerbins Grasland
+			dsc = 1
+			scv = 0.015625
+			sbv = 0.400000006
+			sci = 15.75
+			asc = True
+			cap = 16
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfSplashedGrasslands
+			title = EVA-Bericht von Kerbins Grasland
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 3.20000005
+			asc = True
+			cap = 3.20000005
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedIslandAirfield
+			title = Atmosphärenanalyse von Island Airfield
+			dsc = 10
+			scv = 0.000128613567
+			sbv = 0.300000012
+			sci = 7.19907427
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = infraredTelescope@KerbinInSpaceHigh
+			title = Infrarot-Teleskop im Weltraum hoch über Kerbin
+			dsc = 2
+			scv = 1.06349135E-05
+			sbv = 1.5
+			sci = 32.999649
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowTundra
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowIceCaps
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Eiskappen
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowNorthernIceShelf
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowSouthernIceShelf
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighNorthernIceShelf
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Nördliches Schelfeis
+			dsc = 10
+			scv = 0.00462964782
+			sbv = 0.899999976
+			sci = 21.4999981
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = surfaceSample@KerbinFlyingHigh
+			title = Oberflächenprobe aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 1
+			sbv = 0.899999976
+			sci = 0
+			asc = True
+			cap = 36
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingHigh
+			title = EVA-Bericht aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.899999976
+			sci = 7.19999981
+			asc = True
+			cap = 7.19999981
+		}
+		Science
+		{
+			id = evaScience@KerbinFlyingHigh
+			title = EVA-Forschungsexperiment aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 0.899999976
+			sci = 22.5
+			asc = True
+			cap = 22.5
+		}
+		Science
+		{
+			id = @KerbinFlyingHigh
+			title = aus der oberen Atmosphäre von Kerbin
+			dsc = 0
+			scv = 1
+			sbv = 0.899999976
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedCrawlerway
+			title = Atmosphärenanalyse von Crawlerway
+			dsc = 10
+			scv = 0.000771615189
+			sbv = 0.300000012
+			sci = 7.19444466
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedMissionControl
+			title = Atmosphärenanalyse von Missionszentrum
+			dsc = 10
+			scv = 0.000771615189
+			sbv = 0.300000012
+			sci = 7.19444466
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedSPH
+			title = Atmosphärenanalyse von RSH
+			dsc = 10
+			scv = 0.000771615189
+			sbv = 0.300000012
+			sci = 7.19444466
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedSPHMainBuilding
+			title = Atmosphärenanalyse von RSH-Hauptgebäude
+			dsc = 10
+			scv = 0.00462962501
+			sbv = 0.300000012
+			sci = 7.16666698
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedTrackingStationDishNorth
+			title = Crewbericht von Ortungsstation-Schüssel (Nord)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedTrackingStationDishNorth
+			title = Atmosphärenanalyse von Ortungsstation-Schüssel (Nord)
+			dsc = 10
+			scv = 0.00462962501
+			sbv = 0.300000012
+			sci = 7.16666698
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedTrackingStationDishNorth
+			title = Materialuntersuchung von Ortungsstation-Schüssel (Nord)
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedTrackingStationDishNorth
+			title = Mysteriöser Schleim™-Beobachtung von Ortungsstation-Schüssel (Nord)
+			dsc = 1
+			scv = 0.0122894989
+			sbv = 0.300000012
+			sci = 3.85207105
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedTrackingStationDishNorth
+			title = Temperaturscan von Ortungsstation-Schüssel (Nord)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedTrackingStationDishNorth
+			title = Atmosphärendruck-Scan von Ortungsstation-Schüssel (Nord)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedTrackingStationDishEast
+			title = Crewbericht von Ortungsstation-Schüssel (Ost)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedTrackingStationDishEast
+			title = Atmosphärenanalyse von Ortungsstation-Schüssel (Ost)
+			dsc = 10
+			scv = 0.000771615189
+			sbv = 0.300000012
+			sci = 7.19444466
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedTrackingStationDishEast
+			title = Materialuntersuchung von Ortungsstation-Schüssel (Ost)
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedTrackingStationDishEast
+			title = Mysteriöser Schleim™-Beobachtung von Ortungsstation-Schüssel (Ost)
+			dsc = 1
+			scv = 0.0028360195
+			sbv = 0.300000012
+			sci = 3.88893962
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedTrackingStationDishEast
+			title = Temperaturscan von Ortungsstation-Schüssel (Ost)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedTrackingStationDishEast
+			title = Atmosphärendruck-Scan von Ortungsstation-Schüssel (Ost)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedTrackingStationDishEast
+			title = Oberflächenprobe von Ortungsstation-Schüssel (Ost)
+			dsc = 1
+			scv = 0.00390625
+			sbv = 0.300000012
+			sci = 11.953125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedTrackingStationDishEast
+			title = EVA-Bericht von Ortungsstation-Schüssel (Ost)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedTrackingStationDishSouth
+			title = Crewbericht von Ortungsstation-Schüssel (Süd)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedTrackingStationDishSouth
+			title = Atmosphärenanalyse von Ortungsstation-Schüssel (Süd)
+			dsc = 10
+			scv = 0.000771615189
+			sbv = 0.300000012
+			sci = 7.19444466
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedTrackingStationDishSouth
+			title = Materialuntersuchung von Ortungsstation-Schüssel (Süd)
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedTrackingStationDishSouth
+			title = Mysteriöser Schleim™-Beobachtung von Ortungsstation-Schüssel (Süd)
+			dsc = 1
+			scv = 0.0028360195
+			sbv = 0.300000012
+			sci = 3.88893962
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedTrackingStationDishSouth
+			title = Temperaturscan von Ortungsstation-Schüssel (Süd)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedTrackingStationDishSouth
+			title = Atmosphärendruck-Scan von Ortungsstation-Schüssel (Süd)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedTrackingStationDishSouth
+			title = Oberflächenprobe von Ortungsstation-Schüssel (Süd)
+			dsc = 1
+			scv = 0.00390625
+			sbv = 0.300000012
+			sci = 11.953125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedTrackingStationDishSouth
+			title = EVA-Bericht von Ortungsstation-Schüssel (Süd)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowTrackingStationDishSouth
+			title = EVA-Bericht Flug über Kerbins Ortungsstation-Schüssel (Süd)
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = magnetometer@KerbinFlyingLow
+			title = Magnetometer-Bericht beim Flug auf Kerbin
+			dsc = 1
+			scv = 1
+			sbv = 0.699999988
+			sci = 0
+			asc = True
+			cap = 31.5
+		}
+		Science
+		{
+			id = seismicScan@KerbinFlyingLow
+			title = Seismischer Scan beim Flug auf Kerbin
+			dsc = 2.5
+			scv = 1
+			sbv = 0.699999988
+			sci = 0
+			asc = True
+			cap = 15.3999996
+		}
+		Science
+		{
+			id = magnetometer@KerbinFlyingHigh
+			title = Magnetometer-Bericht aus der oberen Atmosphäre von Kerbin
+			dsc = 1
+			scv = 1
+			sbv = 0.899999976
+			sci = 0
+			asc = True
+			cap = 40.5
+		}
+		Science
+		{
+			id = seismicScan@KerbinFlyingHigh
+			title = Seismischer Scan aus der oberen Atmosphäre von Kerbin
+			dsc = 2.5
+			scv = 1
+			sbv = 0.899999976
+			sci = 0
+			asc = True
+			cap = 19.7999992
+		}
+		Science
+		{
+			id = magnetometer@KerbinInSpaceLow
+			title = Magnetometer-Bericht im Weltraum in der Nähe von Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 45
+			asc = True
+			cap = 45
+		}
+		Science
+		{
+			id = seismicScan@KerbinInSpaceLow
+			title = Seismischer Scan im Weltraum in der Nähe von Kerbin
+			dsc = 2.5
+			scv = 1
+			sbv = 1
+			sci = 0
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = magnetometer@KerbinSrfLanded
+			title = Magnetometer-Bericht von der Oberfläche von Kerbin
+			dsc = 1
+			scv = 1
+			sbv = 0.300000012
+			sci = 0
+			asc = True
+			cap = 13.500001
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedGrasslands
+			title = Seismischer Scan von Kerbins Grasland
+			dsc = 2.5
+			scv = 0
+			sbv = 0.300000012
+			sci = 6.60000038
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = infraredTelescope@KerbinFlyingLow
+			title = Infrarot-Teleskop beim Flug auf Kerbin
+			dsc = 2
+			scv = 1
+			sbv = 0.699999988
+			sci = 0
+			asc = True
+			cap = 15.3999996
+		}
+		Science
+		{
+			id = infraredTelescope@KerbinFlyingHigh
+			title = Infrarot-Teleskop aus der oberen Atmosphäre von Kerbin
+			dsc = 2
+			scv = 1
+			sbv = 0.899999976
+			sci = 0
+			asc = True
+			cap = 19.7999992
+		}
+		Science
+		{
+			id = infraredTelescope@KerbinInSpaceLow
+			title = Infrarot-Teleskop im Weltraum in der Nähe von Kerbin
+			dsc = 2
+			scv = 1
+			sbv = 1
+			sci = 0
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = magnetometer@KerbinInSpaceHigh
+			title = Magnetometer-Bericht im Weltraum hoch über Kerbin
+			dsc = 1
+			scv = 0
+			sbv = 1.5
+			sci = 67.5
+			asc = True
+			cap = 67.5
+		}
+		Science
+		{
+			id = seismicScan@KerbinInSpaceHigh
+			title = Seismischer Scan im Weltraum hoch über Kerbin
+			dsc = 2.5
+			scv = 1
+			sbv = 1.5
+			sci = 0
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = crewReport@MunInSpaceHigh
+			title = Crewbericht im Weltraum hoch über Mun
+			dsc = 1
+			scv = 0
+			sbv = 2
+			sci = 10
+			asc = True
+			cap = 10
+		}
+		Science
+		{
+			id = magnetometer@MunInSpaceHigh
+			title = Magnetometer-Bericht im Weltraum hoch über Mun
+			dsc = 1
+			scv = 0
+			sbv = 2
+			sci = 90
+			asc = True
+			cap = 90
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MunInSpaceHigh
+			title = Materialuntersuchung im Weltraum hoch über Mun
+			dsc = 1
+			scv = 0.000500917435
+			sbv = 2
+			sci = 63.9679413
+			asc = True
+			cap = 64
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MunInSpaceHigh
+			title = Atmosphärenanalyse im Weltraum hoch über Mun
+			dsc = 10
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = True
+			cap = 48
+		}
+		Science
+		{
+			id = temperatureScan@MunInSpaceHigh
+			title = Temperaturscan im Weltraum hoch über Mun
+			dsc = 1
+			scv = 0
+			sbv = 2
+			sci = 16
+			asc = True
+			cap = 16
+		}
+		Science
+		{
+			id = mysteryGoo@MunInSpaceHigh
+			title = Mysteriöser Schleim™-Beobachtung im Weltraum hoch über Mun
+			dsc = 1
+			scv = 0.000654440664
+			sbv = 2
+			sci = 25.9829845
+			asc = True
+			cap = 26
+		}
+		Science
+		{
+			id = barometerScan@MunInSpaceHigh
+			title = Atmosphärendruck-Scan im Weltraum hoch über Mun
+			dsc = 1
+			scv = 0
+			sbv = 2
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = seismicScan@MunInSpaceHigh
+			title = Seismischer Scan im Weltraum hoch über Mun
+			dsc = 2.5
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = infraredTelescope@MunInSpaceHigh
+			title = Infrarot-Teleskop im Weltraum hoch über Mun
+			dsc = 2
+			scv = 0.0102494843
+			sbv = 2
+			sci = 43.5490227
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = crewReport@MunInSpaceLow
+			title = Crewbericht im Weltraum in der Nähe von Mun
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 15
+			asc = True
+			cap = 15
+		}
+		Science
+		{
+			id = magnetometer@MunInSpaceLow
+			title = Magnetometer-Bericht im Weltraum in der Nähe von Mun
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 135
+			asc = True
+			cap = 135
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MunInSpaceLow
+			title = Materialuntersuchung im Weltraum in der Nähe von Mun
+			dsc = 1
+			scv = 0.000500917435
+			sbv = 3
+			sci = 95.9519119
+			asc = True
+			cap = 96
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MunInSpaceLow
+			title = Atmosphärenanalyse im Weltraum in der Nähe von Mun
+			dsc = 10
+			scv = 1
+			sbv = 3
+			sci = 0
+			asc = True
+			cap = 72
+		}
+		Science
+		{
+			id = temperatureScan@MunInSpaceLow
+			title = Temperaturscan im Weltraum in der Nähe von Mun
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = mysteryGoo@MunInSpaceLow
+			title = Mysteriöser Schleim™-Beobachtung im Weltraum in der Nähe von Mun
+			dsc = 1
+			scv = 0.00015102289
+			sbv = 3
+			sci = 38.9941101
+			asc = True
+			cap = 39
+		}
+		Science
+		{
+			id = barometerScan@MunInSpaceLow
+			title = Atmosphärendruck-Scan im Weltraum in der Nähe von Mun
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 36
+			asc = True
+			cap = 36
+		}
+		Science
+		{
+			id = seismicScan@MunInSpaceLow
+			title = Seismischer Scan im Weltraum in der Nähe von Mun
+			dsc = 2.5
+			scv = 1
+			sbv = 3
+			sci = 0
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = infraredTelescope@MunInSpaceLow
+			title = Infrarot-Teleskop im Weltraum in der Nähe von Mun
+			dsc = 2
+			scv = 1
+			sbv = 3
+			sci = 0
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = surfaceSample@MunInSpaceLow
+			title = Oberflächenprobe im Weltraum in der Nähe von Mun
+			dsc = 1
+			scv = 1
+			sbv = 3
+			sci = 0
+			asc = True
+			cap = 120
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowEastCrater
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Ostkrater
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaScience@MunInSpaceLow
+			title = EVA-Forschungsexperiment im Weltraum in der Nähe von Mun
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 75
+			asc = True
+			cap = 75
+		}
+		Science
+		{
+			id = @MunInSpaceLow
+			title = im Weltraum in der Nähe von Mun
+			dsc = 0
+			scv = 1
+			sbv = 3
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowMidlands
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Binnenland
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowPoles
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Pole
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = surfaceSample@MunInSpaceHigh
+			title = Oberflächenprobe im Weltraum hoch über Mun
+			dsc = 1
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = True
+			cap = 80
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceHigh
+			title = EVA-Bericht im Weltraum hoch über Mun
+			dsc = 1
+			scv = 0
+			sbv = 2
+			sci = 16
+			asc = True
+			cap = 16
+		}
+		Science
+		{
+			id = evaScience@MunInSpaceHigh
+			title = EVA-Forschungsexperiment im Weltraum hoch über Mun
+			dsc = 1
+			scv = 0
+			sbv = 2
+			sci = 50
+			asc = True
+			cap = 50
+		}
+		Science
+		{
+			id = @MunInSpaceHigh
+			title = im Weltraum hoch über Mun
+			dsc = 0
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighIceCaps
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Eiskappen
+			dsc = 10
+			scv = 0.166666612
+			sbv = 0.899999976
+			sci = 18
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighTundra
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Tundra
+			dsc = 10
+			scv = 0.166666612
+			sbv = 0.899999976
+			sci = 18
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = magnetometer@KerbinSrfSplashed
+			title = Magnetometer-Bericht aus den Ozeanen von Kerbin
+			dsc = 1
+			scv = 1
+			sbv = 0.400000006
+			sci = 0
+			asc = True
+			cap = 18
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfSplashed
+			title = Seismischer Scan aus den Ozeanen von Kerbin
+			dsc = 2.5
+			scv = 1
+			sbv = 0.400000006
+			sci = 0
+			asc = True
+			cap = 8.80000019
+		}
+		Science
+		{
+			id = infraredTelescope@KerbinSrfSplashed
+			title = Infrarot-Teleskop aus den Ozeanen von Kerbin
+			dsc = 2
+			scv = 1
+			sbv = 0.400000006
+			sci = 0
+			asc = True
+			cap = 8.80000019
+		}
+		Science
+		{
+			id = recovery@MunOrbited
+			title = Bergung eines Raumfahrzeugs, das in einer Umlaufbahn um Mun war.
+			dsc = 1
+			scv = 0.000771582068
+			sbv = 16
+			sci = 19.1851864
+			asc = True
+			cap = 19.2000008
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedRunway
+			title = Seismischer Scan von Startbahn
+			dsc = 2.5
+			scv = 5.77984395E-07
+			sbv = 0.300000012
+			sci = 6.59999657
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedSPH
+			title = Seismischer Scan von RSH
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedMissionControl
+			title = Seismischer Scan von Missionszentrum
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedVAB
+			title = Seismischer Scan von FZF
+			dsc = 2.5
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedKSC
+			title = Seismischer Scan von KWZ
+			dsc = 2.5
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedTrackingStation
+			title = Seismischer Scan von Ortungsstation
+			dsc = 2.5
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&D
+			title = Seismischer Scan von F&E
+			dsc = 2.5
+			scv = 6.2133322E-06
+			sbv = 0.300000012
+			sci = 6.59995937
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedAstronautComplex
+			title = Seismischer Scan von Astronauten-Komplex
+			dsc = 2.5
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedAdministration
+			title = Seismischer Scan von Verwaltung
+			dsc = 2.5
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedShores
+			title = Seismischer Scan von Kerbins Küsten
+			dsc = 2.5
+			scv = 5.77984395E-07
+			sbv = 0.300000012
+			sci = 6.59999657
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedFlagPole
+			title = Seismischer Scan von Fahnenmast
+			dsc = 2.5
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowAstronautComplex
+			title = Crewbericht Flug über Kerbins Astronauten-Komplex
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowAstronautComplex
+			title = Temperaturscan Flug über Kerbins Astronauten-Komplex
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowAstronautComplex
+			title = Atmosphärenanalyse Flug über Kerbins Astronauten-Komplex
+			dsc = 10
+			scv = 0.166666627
+			sbv = 0.699999988
+			sci = 14
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = crewReport@MinmusInSpaceHigh
+			title = Crewbericht im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 0
+			sbv = 2.5
+			sci = 12.5
+			asc = True
+			cap = 12.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MinmusInSpaceHigh
+			title = Materialuntersuchung im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 0.00228977203
+			sbv = 2.5
+			sci = 79.8168182
+			asc = True
+			cap = 80
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MinmusInSpaceHigh
+			title = Atmosphärenanalyse im Weltraum hoch über Minmus
+			dsc = 10
+			scv = 1
+			sbv = 2.5
+			sci = 0
+			asc = True
+			cap = 60
+		}
+		Science
+		{
+			id = temperatureScan@MinmusInSpaceHigh
+			title = Temperaturscan im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 0
+			sbv = 2.5
+			sci = 20
+			asc = True
+			cap = 20
+		}
+		Science
+		{
+			id = mysteryGoo@MinmusInSpaceHigh
+			title = Mysteriöser Schleim™-Beobachtung im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 0.00283602206
+			sbv = 2.5
+			sci = 32.4078293
+			asc = True
+			cap = 32.5
+		}
+		Science
+		{
+			id = barometerScan@MinmusInSpaceHigh
+			title = Atmosphärendruck-Scan im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 0
+			sbv = 2.5
+			sci = 30
+			asc = True
+			cap = 30
+		}
+		Science
+		{
+			id = seismicScan@MinmusInSpaceHigh
+			title = Seismischer Scan im Weltraum hoch über Minmus
+			dsc = 2.5
+			scv = 1
+			sbv = 2.5
+			sci = 0
+			asc = True
+			cap = 55
+		}
+		Science
+		{
+			id = magnetometer@MinmusInSpaceHigh
+			title = Magnetometer-Bericht im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 0
+			sbv = 2.5
+			sci = 112.5
+			asc = True
+			cap = 112.5
+		}
+		Science
+		{
+			id = infraredTelescope@MinmusInSpaceHigh
+			title = Infrarot-Teleskop im Weltraum hoch über Minmus
+			dsc = 2
+			scv = 0.00326121948
+			sbv = 2.5
+			sci = 54.8206329
+			asc = True
+			cap = 55
+		}
+		Science
+		{
+			id = surfaceSample@MinmusInSpaceHigh
+			title = Oberflächenprobe im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 1
+			sbv = 2.5
+			sci = 0
+			asc = True
+			cap = 100
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceHigh
+			title = EVA-Bericht im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 0
+			sbv = 2.5
+			sci = 20
+			asc = True
+			cap = 20
+		}
+		Science
+		{
+			id = evaScience@MinmusInSpaceHigh
+			title = EVA-Forschungsexperiment im Weltraum hoch über Minmus
+			dsc = 1
+			scv = 0
+			sbv = 2.5
+			sci = 62.5
+			asc = True
+			cap = 62.5
+		}
+		Science
+		{
+			id = @MinmusInSpaceHigh
+			title = im Weltraum hoch über Minmus
+			dsc = 0
+			scv = 1
+			sbv = 2.5
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = crewReport@MinmusInSpaceLow
+			title = Crewbericht im Weltraum in der Nähe von Minmus
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 20
+			asc = True
+			cap = 20
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MinmusInSpaceLow
+			title = Materialuntersuchung im Weltraum in der Nähe von Minmus
+			dsc = 1
+			scv = 0.00228977203
+			sbv = 4
+			sci = 127.706909
+			asc = True
+			cap = 128
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MinmusInSpaceLow
+			title = Atmosphärenanalyse im Weltraum in der Nähe von Minmus
+			dsc = 10
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 96
+		}
+		Science
+		{
+			id = temperatureScan@MinmusInSpaceLow
+			title = Temperaturscan im Weltraum in der Nähe von Minmus
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = mysteryGoo@MinmusInSpaceLow
+			title = Mysteriöser Schleim™-Beobachtung im Weltraum in der Nähe von Minmus
+			dsc = 1
+			scv = 0.00283600739
+			sbv = 4
+			sci = 51.8525276
+			asc = True
+			cap = 52
+		}
+		Science
+		{
+			id = barometerScan@MinmusInSpaceLow
+			title = Atmosphärendruck-Scan im Weltraum in der Nähe von Minmus
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 48
+			asc = True
+			cap = 48
+		}
+		Science
+		{
+			id = seismicScan@MinmusInSpaceLow
+			title = Seismischer Scan im Weltraum in der Nähe von Minmus
+			dsc = 2.5
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = magnetometer@MinmusInSpaceLow
+			title = Magnetometer-Bericht im Weltraum in der Nähe von Minmus
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 180
+			asc = True
+			cap = 180
+		}
+		Science
+		{
+			id = infraredTelescope@MinmusInSpaceLow
+			title = Infrarot-Teleskop im Weltraum in der Nähe von Minmus
+			dsc = 2
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = surfaceSample@MinmusInSpaceLow
+			title = Oberflächenprobe im Weltraum in der Nähe von Minmus
+			dsc = 1
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowPoles
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Pole
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaScience@MinmusInSpaceLow
+			title = EVA-Forschungsexperiment im Weltraum in der Nähe von Minmus
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 100
+			asc = True
+			cap = 100
+		}
+		Science
+		{
+			id = @MinmusInSpaceLow
+			title = im Weltraum in der Nähe von Minmus
+			dsc = 0
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowLowlands
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Flachland
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowMidlands
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Binnenland
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowFlats
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Ebenen
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowHighlands
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Hochland
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowSlopes
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Hänge
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowGreaterFlats
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Riesenebenen
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowGreatFlats
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Großebenen
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaReport@MinmusInSpaceLowLesserFlats
+			title = EVA-Bericht aus dem Weltraum direkt über Minmus' Kleinebenen
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = crewReport@MinmusSrfLandedGreaterFlats
+			title = Crewbericht von Minmus' Riesenebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 25
+			asc = True
+			cap = 25
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MinmusSrfLandedGreaterFlats
+			title = Materialuntersuchung von Minmus' Riesenebenen
+			dsc = 1
+			scv = 0.21875
+			sbv = 5
+			sci = 125
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MinmusSrfLandedGreaterFlats
+			title = Atmosphärenanalyse von Minmus' Riesenebenen
+			dsc = 10
+			scv = 1
+			sbv = 5
+			sci = 0
+			asc = True
+			cap = 120
+		}
+		Science
+		{
+			id = temperatureScan@MinmusSrfLandedGreaterFlats
+			title = Temperaturscan von Minmus' Riesenebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = mysteryGoo@MinmusSrfLandedGreaterFlats
+			title = Mysteriöser Schleim™-Beobachtung von Minmus' Riesenebenen
+			dsc = 1
+			scv = 0.230769232
+			sbv = 5
+			sci = 50
+			asc = True
+			cap = 65
+		}
+		Science
+		{
+			id = barometerScan@MinmusSrfLandedGreaterFlats
+			title = Atmosphärendruck-Scan von Minmus' Riesenebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 60
+			asc = True
+			cap = 60
+		}
+		Science
+		{
+			id = seismicScan@MinmusSrfLandedGreaterFlats
+			title = Seismischer Scan von Minmus' Riesenebenen
+			dsc = 2.5
+			scv = 0.0909090936
+			sbv = 5
+			sci = 100
+			asc = True
+			cap = 110
+		}
+		Science
+		{
+			id = magnetometer@MinmusSrfLanded
+			title = Magnetometer-Bericht von der Oberfläche von Minmus
+			dsc = 1
+			scv = 1
+			sbv = 5
+			sci = 0
+			asc = True
+			cap = 225
+		}
+		Science
+		{
+			id = infraredTelescope@MinmusSrfLanded
+			title = Infrarot-Teleskop von der Oberfläche von Minmus
+			dsc = 2
+			scv = 1
+			sbv = 5
+			sci = 0
+			asc = True
+			cap = 110
+		}
+		Science
+		{
+			id = surfaceSample@MinmusSrfLandedGreaterFlats
+			title = Oberflächenprobe von Minmus' Riesenebenen
+			dsc = 1
+			scv = 0.25
+			sbv = 5
+			sci = 150
+			asc = True
+			cap = 200
+		}
+		Science
+		{
+			id = evaReport@MinmusSrfLandedGreaterFlats
+			title = EVA-Bericht von Minmus' Riesenebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = evaScience@MinmusSrfLanded
+			title = EVA-Forschungsexperiment von der Oberfläche von Minmus
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 125
+			asc = True
+			cap = 125
+		}
+		Science
+		{
+			id = @MinmusSrfLanded
+			title = von der Oberfläche von Minmus
+			dsc = 0
+			scv = 1
+			sbv = 5
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = crewReport@MinmusSrfLandedGreatFlats
+			title = Crewbericht von Minmus' Großebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 25
+			asc = True
+			cap = 25
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MinmusSrfLandedGreatFlats
+			title = Materialuntersuchung von Minmus' Großebenen
+			dsc = 1
+			scv = 0.21875
+			sbv = 5
+			sci = 125
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MinmusSrfLandedGreatFlats
+			title = Atmosphärenanalyse von Minmus' Großebenen
+			dsc = 10
+			scv = 1
+			sbv = 5
+			sci = 0
+			asc = True
+			cap = 120
+		}
+		Science
+		{
+			id = temperatureScan@MinmusSrfLandedGreatFlats
+			title = Temperaturscan von Minmus' Großebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = mysteryGoo@MinmusSrfLandedGreatFlats
+			title = Mysteriöser Schleim™-Beobachtung von Minmus' Großebenen
+			dsc = 1
+			scv = 0.230769232
+			sbv = 5
+			sci = 50
+			asc = True
+			cap = 65
+		}
+		Science
+		{
+			id = barometerScan@MinmusSrfLandedGreatFlats
+			title = Atmosphärendruck-Scan von Minmus' Großebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 60
+			asc = True
+			cap = 60
+		}
+		Science
+		{
+			id = seismicScan@MinmusSrfLandedGreatFlats
+			title = Seismischer Scan von Minmus' Großebenen
+			dsc = 2.5
+			scv = 0.0909090936
+			sbv = 5
+			sci = 100
+			asc = True
+			cap = 110
+		}
+		Science
+		{
+			id = surfaceSample@MinmusSrfLandedGreatFlats
+			title = Oberflächenprobe von Minmus' Großebenen
+			dsc = 1
+			scv = 0.25
+			sbv = 5
+			sci = 150
+			asc = True
+			cap = 200
+		}
+		Science
+		{
+			id = evaReport@MinmusSrfLandedGreatFlats
+			title = EVA-Bericht von Minmus' Großebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingHighSouthernIceShelf
+			title = Atmosphärenanalyse aus der oberen Atmosphäre über Kerbins Südliches Schelfeis
+			dsc = 10
+			scv = 0.000128569431
+			sbv = 0.899999976
+			sci = 21.5972214
+			asc = True
+			cap = 21.5999985
+		}
+		Science
+		{
+			id = infraredTelescope@KerbinSrfLanded
+			title = Infrarot-Teleskop von der Oberfläche von Kerbin
+			dsc = 2
+			scv = 1
+			sbv = 0.300000012
+			sci = 0
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = recovery@MinmusSurfaced
+			title = Bergung eines Raumfahrzeugs, das auf der Oberfläche von Minmus war.
+			dsc = 1
+			scv = 0.000771586085
+			sbv = 37.5
+			sci = 44.9652786
+			asc = True
+			cap = 45
+		}
+		Science
+		{
+			id = crewReport@MinmusSrfLandedMidlands
+			title = Crewbericht von Minmus' Binnenland
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 25
+			asc = True
+			cap = 25
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MinmusSrfLandedMidlands
+			title = Materialuntersuchung von Minmus' Binnenland
+			dsc = 1
+			scv = 0.0478515625
+			sbv = 5
+			sci = 152.34375
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MinmusSrfLandedMidlands
+			title = Atmosphärenanalyse von Minmus' Binnenland
+			dsc = 10
+			scv = 1
+			sbv = 5
+			sci = 0
+			asc = True
+			cap = 120
+		}
+		Science
+		{
+			id = temperatureScan@MinmusSrfLandedMidlands
+			title = Temperaturscan von Minmus' Binnenland
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = mysteryGoo@MinmusSrfLandedMidlands
+			title = Mysteriöser Schleim™-Beobachtung von Minmus' Binnenland
+			dsc = 1
+			scv = 0.0532544665
+			sbv = 5
+			sci = 61.5384598
+			asc = True
+			cap = 65
+		}
+		Science
+		{
+			id = barometerScan@MinmusSrfLandedMidlands
+			title = Atmosphärendruck-Scan von Minmus' Binnenland
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 60
+			asc = True
+			cap = 60
+		}
+		Science
+		{
+			id = seismicScan@MinmusSrfLandedMidlands
+			title = Seismischer Scan von Minmus' Binnenland
+			dsc = 2.5
+			scv = 0.00826443732
+			sbv = 5
+			sci = 109.090912
+			asc = True
+			cap = 110
+		}
+		Science
+		{
+			id = surfaceSample@MinmusSrfLandedMidlands
+			title = Oberflächenprobe von Minmus' Binnenland
+			dsc = 1
+			scv = 0.0625
+			sbv = 5
+			sci = 187.5
+			asc = True
+			cap = 200
+		}
+		Science
+		{
+			id = evaReport@MinmusSrfLandedMidlands
+			title = EVA-Bericht von Minmus' Binnenland
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = crewReport@MinmusSrfLandedSlopes
+			title = Crewbericht von Minmus' Hänge
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 25
+			asc = True
+			cap = 25
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MinmusSrfLandedSlopes
+			title = Materialuntersuchung von Minmus' Hänge
+			dsc = 1
+			scv = 0.21875
+			sbv = 5
+			sci = 125
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MinmusSrfLandedSlopes
+			title = Atmosphärenanalyse von Minmus' Hänge
+			dsc = 10
+			scv = 1
+			sbv = 5
+			sci = 0
+			asc = True
+			cap = 120
+		}
+		Science
+		{
+			id = temperatureScan@MinmusSrfLandedSlopes
+			title = Temperaturscan von Minmus' Hänge
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = mysteryGoo@MinmusSrfLandedSlopes
+			title = Mysteriöser Schleim™-Beobachtung von Minmus' Hänge
+			dsc = 1
+			scv = 0.230769232
+			sbv = 5
+			sci = 50
+			asc = True
+			cap = 65
+		}
+		Science
+		{
+			id = barometerScan@MinmusSrfLandedSlopes
+			title = Atmosphärendruck-Scan von Minmus' Hänge
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 60
+			asc = True
+			cap = 60
+		}
+		Science
+		{
+			id = seismicScan@MinmusSrfLandedSlopes
+			title = Seismischer Scan von Minmus' Hänge
+			dsc = 2.5
+			scv = 0.0909090936
+			sbv = 5
+			sci = 100
+			asc = True
+			cap = 110
+		}
+		Science
+		{
+			id = surfaceSample@MinmusSrfLandedSlopes
+			title = Oberflächenprobe von Minmus' Hänge
+			dsc = 1
+			scv = 0.25
+			sbv = 5
+			sci = 150
+			asc = True
+			cap = 200
+		}
+		Science
+		{
+			id = evaReport@MinmusSrfLandedSlopes
+			title = EVA-Bericht von Minmus' Hänge
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowIslandAirfield
+			title = Crewbericht Flug über Kerbins Island Airfield
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowIslandAirfield
+			title = Temperaturscan Flug über Kerbins Island Airfield
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowIslandAirfield
+			title = Atmosphärenanalyse Flug über Kerbins Island Airfield
+			dsc = 10
+			scv = 0.166666627
+			sbv = 0.699999988
+			sci = 14
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedIslandAirfield
+			title = Seismischer Scan von Island Airfield
+			dsc = 2.5
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowMountains
+			title = Atmosphärenanalyse Flug über Kerbins Berge
+			dsc = 10
+			scv = 0.000771567982
+			sbv = 0.699999988
+			sci = 16.7870369
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedMountains
+			title = Atmosphärenanalyse von Kerbins Berge
+			dsc = 10
+			scv = 0.166666701
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedMountains
+			title = Seismischer Scan von Kerbins Berge
+			dsc = 2.5
+			scv = 0.0909091458
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedHighlands
+			title = Seismischer Scan von Kerbins Hochland
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowPolarLowlands
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Polarflachland
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowHighlands
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Hochland
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowLowlands
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Flachland
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowTwinCraters
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Zwillingskrater
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowCanyons
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Canyons
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowPolarCrater
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Polarkrater
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowMidlandCraters
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Binnenkrater
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowFarsideCrater
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Rück-Krater
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowFarsideBasin
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Rück-Becken
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowHighlandCraters
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Hochland-Krater
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowNorthernBasin
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Nordostbecken
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowEastFarsideCrater
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Ostkraterwand
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowNorthwestCrater
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Nordwestkrater
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = evaReport@MunInSpaceLowSouthwestCrater
+			title = EVA-Bericht aus dem Weltraum direkt über Muns Südwestlicher Krater
+			dsc = 1
+			scv = 0
+			sbv = 3
+			sci = 24
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = crewReport@MunSrfLandedPolarCrater
+			title = Crewbericht von Muns Polarkrater
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 20
+			asc = True
+			cap = 20
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MunSrfLandedPolarCrater
+			title = Materialuntersuchung von Muns Polarkrater
+			dsc = 1
+			scv = 0.21875
+			sbv = 4
+			sci = 100
+			asc = True
+			cap = 128
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MunSrfLandedPolarCrater
+			title = Atmosphärenanalyse von Muns Polarkrater
+			dsc = 10
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 96
+		}
+		Science
+		{
+			id = temperatureScan@MunSrfLandedPolarCrater
+			title = Temperaturscan von Muns Polarkrater
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = mysteryGoo@MunSrfLandedPolarCrater
+			title = Mysteriöser Schleim™-Beobachtung von Muns Polarkrater
+			dsc = 1
+			scv = 0.230769232
+			sbv = 4
+			sci = 40
+			asc = True
+			cap = 52
+		}
+		Science
+		{
+			id = barometerScan@MunSrfLandedPolarCrater
+			title = Atmosphärendruck-Scan von Muns Polarkrater
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 48
+			asc = True
+			cap = 48
+		}
+		Science
+		{
+			id = seismicScan@MunSrfLandedPolarCrater
+			title = Seismischer Scan von Muns Polarkrater
+			dsc = 2.5
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = magnetometer@MunSrfLanded
+			title = Magnetometer-Bericht von der Oberfläche von Mun
+			dsc = 1
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 180
+		}
+		Science
+		{
+			id = infraredTelescope@MunSrfLanded
+			title = Infrarot-Teleskop von der Oberfläche von Mun
+			dsc = 2
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = surfaceSample@MunSrfLandedPolarCrater
+			title = Oberflächenprobe von Muns Polarkrater
+			dsc = 1
+			scv = 0.25
+			sbv = 4
+			sci = 120
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = evaReport@MunSrfLandedPolarCrater
+			title = EVA-Bericht von Muns Polarkrater
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = evaScience@MunSrfLanded
+			title = EVA-Forschungsexperiment von der Oberfläche von Mun
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 100
+			asc = True
+			cap = 100
+		}
+		Science
+		{
+			id = @MunSrfLanded
+			title = von der Oberfläche von Mun
+			dsc = 0
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = evaReport@KerbinInSpaceLowBadlands
+			title = EVA-Bericht aus dem Weltraum direkt über Kerbins Ödland
+			dsc = 1
+			scv = 0
+			sbv = 1
+			sci = 8
+			asc = True
+			cap = 8
+		}
+		Science
+		{
+			id = crewReport@MunSrfLandedMidlands
+			title = Crewbericht von Muns Binnenland
+			dsc = 1
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 20
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MunSrfLandedMidlands
+			title = Atmosphärenanalyse von Muns Binnenland
+			dsc = 10
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 96
+		}
+		Science
+		{
+			id = temperatureScan@MunSrfLandedMidlands
+			title = Temperaturscan von Muns Binnenland
+			dsc = 1
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = mysteryGoo@MunSrfLandedMidlands
+			title = Mysteriöser Schleim™-Beobachtung von Muns Binnenland
+			dsc = 1
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 52
+		}
+		Science
+		{
+			id = barometerScan@MunSrfLandedMidlands
+			title = Atmosphärendruck-Scan von Muns Binnenland
+			dsc = 1
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 48
+		}
+		Science
+		{
+			id = seismicScan@MunSrfLandedMidlands
+			title = Seismischer Scan von Muns Binnenland
+			dsc = 2.5
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = surfaceSample@MunSrfLandedMidlands
+			title = Oberflächenprobe von Muns Binnenland
+			dsc = 1
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = evaReport@MunSrfLandedMidlands
+			title = EVA-Bericht von Muns Binnenland
+			dsc = 1
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowTundra
+			title = Crewbericht Flug über Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowTundra
+			title = Temperaturscan Flug über Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowTundra
+			title = Atmosphärenanalyse Flug über Kerbins Tundra
+			dsc = 10
+			scv = 0.166666627
+			sbv = 0.699999988
+			sci = 14
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedTundra
+			title = Crewbericht von Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedTundra
+			title = Atmosphärendruck-Scan von Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedTundra
+			title = Temperaturscan von Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedTundra
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Tundra
+			dsc = 1
+			scv = 0.230769247
+			sbv = 0.300000012
+			sci = 3
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedTundra
+			title = Materialuntersuchung von Kerbins Tundra
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedTundra
+			title = Atmosphärenanalyse von Kerbins Tundra
+			dsc = 10
+			scv = 0.166666701
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedTundra
+			title = Seismischer Scan von Kerbins Tundra
+			dsc = 2.5
+			scv = 0.0909091458
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedTundra
+			title = Oberflächenprobe von Kerbins Tundra
+			dsc = 1
+			scv = 0.25
+			sbv = 0.300000012
+			sci = 9
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedTundra
+			title = EVA-Bericht von Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfSplashedTundra
+			title = Crewbericht von Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 2
+			asc = True
+			cap = 2
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfSplashedTundra
+			title = Atmosphärendruck-Scan von Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 4.80000019
+			asc = True
+			cap = 4.80000019
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfSplashedTundra
+			title = Temperaturscan von Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 3.20000005
+			asc = True
+			cap = 3.20000005
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfSplashedTundra
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Tundra
+			dsc = 1
+			scv = 0.230769277
+			sbv = 0.400000006
+			sci = 4
+			asc = True
+			cap = 5.20000029
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfSplashedTundra
+			title = Materialuntersuchung von Kerbins Tundra
+			dsc = 1
+			scv = 0.218750015
+			sbv = 0.400000006
+			sci = 10
+			asc = True
+			cap = 12.8000002
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfSplashedTundra
+			title = Oberflächenprobe von Kerbins Tundra
+			dsc = 1
+			scv = 0.25
+			sbv = 0.400000006
+			sci = 12
+			asc = True
+			cap = 16
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfSplashedTundra
+			title = EVA-Bericht von Kerbins Tundra
+			dsc = 1
+			scv = 0
+			sbv = 0.400000006
+			sci = 3.20000005
+			asc = True
+			cap = 3.20000005
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedLaunchPad
+			title = Seismischer Scan von Startrampe
+			dsc = 2.5
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowSouthernIceShelf
+			title = Crewbericht Flug über Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowSouthernIceShelf
+			title = Atmosphärenanalyse Flug über Kerbins Südliches Schelfeis
+			dsc = 10
+			scv = 0.00462963479
+			sbv = 0.699999988
+			sci = 16.7222214
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowSouthernIceShelf
+			title = Temperaturscan Flug über Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedSouthernIceShelf
+			title = Crewbericht von Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedSouthernIceShelf
+			title = Atmosphärenanalyse von Kerbins Südliches Schelfeis
+			dsc = 10
+			scv = 0.00462962501
+			sbv = 0.300000012
+			sci = 7.16666698
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedSouthernIceShelf
+			title = Temperaturscan von Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedSouthernIceShelf
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0.0532544553
+			sbv = 0.300000012
+			sci = 3.69230771
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedSouthernIceShelf
+			title = Atmosphärendruck-Scan von Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedSouthernIceShelf
+			title = Seismischer Scan von Kerbins Südliches Schelfeis
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = recovery@MinmusOrbited
+			title = Bergung eines Raumfahrzeugs, das in einer Umlaufbahn um Minmus war.
+			dsc = 1
+			scv = 0.166666672
+			sbv = 20
+			sci = 20
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedRunway
+			title = Schwerkraft-Scan von Startbahn
+			dsc = 3
+			scv = 6.2133322E-06
+			sbv = 0.300000012
+			sci = 6.59995937
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedShores
+			title = Schwerkraft-Scan von Kerbins Küsten
+			dsc = 3
+			scv = 6.2133322E-06
+			sbv = 0.300000012
+			sci = 6.59995937
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinFlyingLow
+			title = Schwerkraft-Scan beim Flug auf Kerbin
+			dsc = 3
+			scv = 1
+			sbv = 0.699999988
+			sci = 0
+			asc = True
+			cap = 15.3999996
+		}
+		Science
+		{
+			id = gravityScan@KerbinFlyingHigh
+			title = Schwerkraft-Scan aus der oberen Atmosphäre von Kerbin
+			dsc = 3
+			scv = 1
+			sbv = 0.899999976
+			sci = 0
+			asc = True
+			cap = 19.7999992
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowWater
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Wasser
+			dsc = 3
+			scv = 0.00826445501
+			sbv = 1
+			sci = 21.818182
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowShores
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Küsten
+			dsc = 3
+			scv = 0.00826445501
+			sbv = 1
+			sci = 21.818182
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowGrasslands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Grasland
+			dsc = 3
+			scv = 0.00826445501
+			sbv = 1
+			sci = 21.818182
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowHighlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Hochland
+			dsc = 3
+			scv = 0.00826445501
+			sbv = 1
+			sci = 21.818182
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowMountains
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Berge
+			dsc = 3
+			scv = 0.00826445501
+			sbv = 1
+			sci = 21.818182
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighHighlands
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Hochland
+			dsc = 3
+			scv = 0.00826448388
+			sbv = 1.5
+			sci = 32.727272
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighGrasslands
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Grasland
+			dsc = 3
+			scv = 0.00826448388
+			sbv = 1.5
+			sci = 32.727272
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighMountains
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Berge
+			dsc = 3
+			scv = 0.00826448388
+			sbv = 1.5
+			sci = 32.727272
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighDeserts
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Wüsten
+			dsc = 3
+			scv = 0.00826448388
+			sbv = 1.5
+			sci = 32.727272
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighShores
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Küsten
+			dsc = 3
+			scv = 0.00826448388
+			sbv = 1.5
+			sci = 32.727272
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighWater
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Wasser
+			dsc = 3
+			scv = 0.00826448388
+			sbv = 1.5
+			sci = 32.727272
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighBadlands
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Ödland
+			dsc = 3
+			scv = 0.00826448388
+			sbv = 1.5
+			sci = 32.727272
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighMidlands
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Binnenland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2
+			sci = 40
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighHighlands
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Hochland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2
+			sci = 40
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighLowlands
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Flachland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2
+			sci = 40
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighFarsideCrater
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Rück-Krater
+			dsc = 3
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighMidlandCraters
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Binnenkrater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2
+			sci = 40
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighCanyons
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Canyons
+			dsc = 3
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighEastFarsideCrater
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Ostkraterwand
+			dsc = 3
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowMidlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Binnenland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowHighlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Hochland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowLowlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Flachland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowMidlandCraters
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Binnenkrater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowEastCrater
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Ostkrater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowNorthwestCrater
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Nordwestkrater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowCanyons
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Canyons
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowEastFarsideCrater
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Ostkraterwand
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowTwinCraters
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Zwillingskrater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighTwinCraters
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Zwillingskrater
+			dsc = 3
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighEastCrater
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Ostkrater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2
+			sci = 40
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowFarsideBasin
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Rück-Becken
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighFarsideBasin
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Rück-Becken
+			dsc = 3
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = recovery@MunSubOrbited
+			title = Bergung eines Raumfahrzeugs, das in einer suborbitalen Umlaufbahn über Mun war.
+			dsc = 1
+			scv = 0.0277777519
+			sbv = 20
+			sci = 23.333334
+			asc = True
+			cap = 24
+		}
+		Science
+		{
+			id = recovery@MunSurfaced
+			title = Bergung eines Raumfahrzeugs, das auf der Oberfläche von Mun war.
+			dsc = 1
+			scv = 0.00462966505
+			sbv = 30
+			sci = 35.8333321
+			asc = True
+			cap = 36
+		}
+		Science
+		{
+			id = @SunInSpaceHigh
+			title = im Weltraum hoch über Sonne
+			dsc = 0
+			scv = 1
+			sbv = 2
+			sci = 0
+			asc = False
+			cap = 0
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowDeserts
+			title = EVA-Bericht Flug über Kerbins Wüsten
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowBadlands
+			title = Crewbericht Flug über Kerbins Ödland
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowDeserts
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Wüsten
+			dsc = 3
+			scv = 0.00826445501
+			sbv = 1
+			sci = 21.818182
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceHighLowlands
+			title = Schwerkraft-Scan im Weltraum hoch über Minmus' Flachland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2.5
+			sci = 50
+			asc = True
+			cap = 55
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceHighSlopes
+			title = Schwerkraft-Scan im Weltraum hoch über Minmus' Hänge
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2.5
+			sci = 50
+			asc = True
+			cap = 55
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceHighMidlands
+			title = Schwerkraft-Scan im Weltraum hoch über Minmus' Binnenland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2.5
+			sci = 50
+			asc = True
+			cap = 55
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceHighGreatFlats
+			title = Schwerkraft-Scan im Weltraum hoch über Minmus' Großebenen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2.5
+			sci = 50
+			asc = True
+			cap = 55
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceHighPoles
+			title = Schwerkraft-Scan im Weltraum hoch über Minmus' Pole
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2.5
+			sci = 50
+			asc = True
+			cap = 55
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowPoles
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Pole
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowLowlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Flachland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowSlopes
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Hänge
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowMidlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Binnenland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowGreaterFlats
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Riesenebenen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowLesserFlats
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Kleinebenen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowFlats
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Ebenen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowHighlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Hochland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceLowGreatFlats
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Minmus' Großebenen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = crewReport@MinmusSrfLandedLesserFlats
+			title = Crewbericht von Minmus' Kleinebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 25
+			asc = True
+			cap = 25
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MinmusSrfLandedLesserFlats
+			title = Materialuntersuchung von Minmus' Kleinebenen
+			dsc = 1
+			scv = 0.21875
+			sbv = 5
+			sci = 125
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MinmusSrfLandedLesserFlats
+			title = Atmosphärenanalyse von Minmus' Kleinebenen
+			dsc = 10
+			scv = 1
+			sbv = 5
+			sci = 0
+			asc = True
+			cap = 120
+		}
+		Science
+		{
+			id = temperatureScan@MinmusSrfLandedLesserFlats
+			title = Temperaturscan von Minmus' Kleinebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = mysteryGoo@MinmusSrfLandedLesserFlats
+			title = Mysteriöser Schleim™-Beobachtung von Minmus' Kleinebenen
+			dsc = 1
+			scv = 0.230769232
+			sbv = 5
+			sci = 50
+			asc = True
+			cap = 65
+		}
+		Science
+		{
+			id = barometerScan@MinmusSrfLandedLesserFlats
+			title = Atmosphärendruck-Scan von Minmus' Kleinebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 60
+			asc = True
+			cap = 60
+		}
+		Science
+		{
+			id = seismicScan@MinmusSrfLandedLesserFlats
+			title = Seismischer Scan von Minmus' Kleinebenen
+			dsc = 2.5
+			scv = 0.0909090936
+			sbv = 5
+			sci = 100
+			asc = True
+			cap = 110
+		}
+		Science
+		{
+			id = gravityScan@MinmusSrfLandedLesserFlats
+			title = Schwerkraft-Scan von Minmus' Kleinebenen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 5
+			sci = 100
+			asc = True
+			cap = 110
+		}
+		Science
+		{
+			id = surfaceSample@MinmusSrfLandedLesserFlats
+			title = Oberflächenprobe von Minmus' Kleinebenen
+			dsc = 1
+			scv = 0.25
+			sbv = 5
+			sci = 150
+			asc = True
+			cap = 200
+		}
+		Science
+		{
+			id = evaReport@MinmusSrfLandedLesserFlats
+			title = EVA-Bericht von Minmus' Kleinebenen
+			dsc = 1
+			scv = 0
+			sbv = 5
+			sci = 40
+			asc = True
+			cap = 40
+		}
+		Science
+		{
+			id = gravityScan@MinmusInSpaceHighFlats
+			title = Schwerkraft-Scan im Weltraum hoch über Minmus' Ebenen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2.5
+			sci = 50
+			asc = True
+			cap = 55
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowBadlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Ödland
+			dsc = 3
+			scv = 0.00826445501
+			sbv = 1
+			sci = 21.818182
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfSplashedWater
+			title = Schwerkraft-Scan von Kerbins Wasser
+			dsc = 3
+			scv = 0.0909091085
+			sbv = 0.400000006
+			sci = 8
+			asc = True
+			cap = 8.80000019
+		}
+		Science
+		{
+			id = recovery@MinmusSubOrbited
+			title = Bergung eines Raumfahrzeugs, das in einer suborbitalen Umlaufbahn über Minmus war.
+			dsc = 1
+			scv = 0.166666716
+			sbv = 25
+			sci = 25
+			asc = True
+			cap = 30.0000019
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedAdministration
+			title = Schwerkraft-Scan von Verwaltung
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedAstronautComplex
+			title = Schwerkraft-Scan von Astronauten-Komplex
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedFlagPole
+			title = Schwerkraft-Scan von Fahnenmast
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&D
+			title = Schwerkraft-Scan von F&E
+			dsc = 3
+			scv = 6.82744067E-05
+			sbv = 0.300000012
+			sci = 6.59954977
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&DMainBuilding
+			title = Seismischer Scan von F&E-Hauptgebäude
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&DMainBuilding
+			title = Schwerkraft-Scan von F&E-Hauptgebäude
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&DCentralBuilding
+			title = Crewbericht von F&E-Zentralgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&DCentralBuilding
+			title = Atmosphärenanalyse von F&E-Zentralgebäude
+			dsc = 10
+			scv = 0.0277778171
+			sbv = 0.300000012
+			sci = 7
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&DCentralBuilding
+			title = Seismischer Scan von F&E-Zentralgebäude
+			dsc = 2.5
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&DCentralBuilding
+			title = Schwerkraft-Scan von F&E-Zentralgebäude
+			dsc = 3
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&DCentralBuilding
+			title = Mysteriöser Schleim™-Beobachtung von F&E-Zentralgebäude
+			dsc = 1
+			scv = 0.0532544553
+			sbv = 0.300000012
+			sci = 3.69230771
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&DCentralBuilding
+			title = Atmosphärendruck-Scan von F&E-Zentralgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&DCentralBuilding
+			title = Temperaturscan von F&E-Zentralgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&DCentralBuilding
+			title = Oberflächenprobe von F&E-Zentralgebäude
+			dsc = 1
+			scv = 0.0625
+			sbv = 0.300000012
+			sci = 11.25
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&DCentralBuilding
+			title = EVA-Bericht von F&E-Zentralgebäude
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&DObservatory
+			title = Crewbericht von F&E-Observatorium
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&DObservatory
+			title = Atmosphärenanalyse von F&E-Observatorium
+			dsc = 10
+			scv = 0.00462962501
+			sbv = 0.300000012
+			sci = 7.16666698
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&DObservatory
+			title = Seismischer Scan von F&E-Observatorium
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&DObservatory
+			title = Schwerkraft-Scan von F&E-Observatorium
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&DObservatory
+			title = Mysteriöser Schleim™-Beobachtung von F&E-Observatorium
+			dsc = 1
+			scv = 0.0122894989
+			sbv = 0.300000012
+			sci = 3.85207105
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&DObservatory
+			title = Atmosphärendruck-Scan von F&E-Observatorium
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&DObservatory
+			title = Temperaturscan von F&E-Observatorium
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&DObservatory
+			title = Oberflächenprobe von F&E-Observatorium
+			dsc = 1
+			scv = 0.015625
+			sbv = 0.300000012
+			sci = 11.8125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&DObservatory
+			title = EVA-Bericht von F&E-Observatorium
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&DTanks
+			title = Crewbericht von F&E-Tanks
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&DTanks
+			title = Atmosphärenanalyse von F&E-Tanks
+			dsc = 10
+			scv = 0.00462962501
+			sbv = 0.300000012
+			sci = 7.16666698
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&DTanks
+			title = Seismischer Scan von F&E-Tanks
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&DTanks
+			title = Schwerkraft-Scan von F&E-Tanks
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&DTanks
+			title = Mysteriöser Schleim™-Beobachtung von F&E-Tanks
+			dsc = 1
+			scv = 0.0122894989
+			sbv = 0.300000012
+			sci = 3.85207105
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&DTanks
+			title = Atmosphärendruck-Scan von F&E-Tanks
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&DTanks
+			title = Temperaturscan von F&E-Tanks
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&DTanks
+			title = Oberflächenprobe von F&E-Tanks
+			dsc = 1
+			scv = 0.015625
+			sbv = 0.300000012
+			sci = 11.8125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&DTanks
+			title = EVA-Bericht von F&E-Tanks
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&DWindTunnel
+			title = Crewbericht von F&E-Windtunnel
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&DWindTunnel
+			title = Atmosphärenanalyse von F&E-Windtunnel
+			dsc = 10
+			scv = 0.00462962501
+			sbv = 0.300000012
+			sci = 7.16666698
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&DWindTunnel
+			title = Seismischer Scan von F&E-Windtunnel
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&DWindTunnel
+			title = Schwerkraft-Scan von F&E-Windtunnel
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&DWindTunnel
+			title = Mysteriöser Schleim™-Beobachtung von F&E-Windtunnel
+			dsc = 1
+			scv = 0.0122894989
+			sbv = 0.300000012
+			sci = 3.85207105
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&DWindTunnel
+			title = Atmosphärendruck-Scan von F&E-Windtunnel
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&DWindTunnel
+			title = Temperaturscan von F&E-Windtunnel
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&DWindTunnel
+			title = Oberflächenprobe von F&E-Windtunnel
+			dsc = 1
+			scv = 0.015625
+			sbv = 0.300000012
+			sci = 11.8125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&DWindTunnel
+			title = EVA-Bericht von F&E-Windtunnel
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&DCornerLab
+			title = Atmosphärenanalyse von F&E-Ecklabor
+			dsc = 10
+			scv = 0.00462962501
+			sbv = 0.300000012
+			sci = 7.16666698
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&DCornerLab
+			title = Seismischer Scan von F&E-Ecklabor
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&DCornerLab
+			title = Schwerkraft-Scan von F&E-Ecklabor
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&DCornerLab
+			title = Oberflächenprobe von F&E-Ecklabor
+			dsc = 1
+			scv = 0.015625
+			sbv = 0.300000012
+			sci = 11.8125
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&DCornerLab
+			title = EVA-Bericht von F&E-Ecklabor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedTrackingStation
+			title = Schwerkraft-Scan von Ortungsstation
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedTrackingStationHub
+			title = Seismischer Scan von Ortungsstation-Zentrale
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedTrackingStationHub
+			title = Schwerkraft-Scan von Ortungsstation-Zentrale
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedTrackingStationDishSouth
+			title = Seismischer Scan von Ortungsstation-Schüssel (Süd)
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedTrackingStationDishSouth
+			title = Schwerkraft-Scan von Ortungsstation-Schüssel (Süd)
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedTrackingStationDishEast
+			title = Seismischer Scan von Ortungsstation-Schüssel (Ost)
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedTrackingStationDishEast
+			title = Schwerkraft-Scan von Ortungsstation-Schüssel (Ost)
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedTrackingStationDishNorth
+			title = Seismischer Scan von Ortungsstation-Schüssel (Nord)
+			dsc = 2.5
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedTrackingStationDishNorth
+			title = Schwerkraft-Scan von Ortungsstation-Schüssel (Nord)
+			dsc = 3
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedTrackingStationDishNorth
+			title = Oberflächenprobe von Ortungsstation-Schüssel (Nord)
+			dsc = 1
+			scv = 0.0625
+			sbv = 0.300000012
+			sci = 11.25
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedTrackingStationDishNorth
+			title = EVA-Bericht von Ortungsstation-Schüssel (Nord)
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedKSC
+			title = Schwerkraft-Scan von KWZ
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedVAB
+			title = Schwerkraft-Scan von FZF
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedVABSouthComplex
+			title = Crewbericht von FZF-Südkomplex
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedVABSouthComplex
+			title = Atmosphärenanalyse von FZF-Südkomplex
+			dsc = 10
+			scv = 0.166666701
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedVABSouthComplex
+			title = Seismischer Scan von FZF-Südkomplex
+			dsc = 2.5
+			scv = 0.0909091458
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedVABSouthComplex
+			title = Schwerkraft-Scan von FZF-Südkomplex
+			dsc = 3
+			scv = 0.0909091458
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedVABSouthComplex
+			title = Mysteriöser Schleim™-Beobachtung von FZF-Südkomplex
+			dsc = 1
+			scv = 0.230769247
+			sbv = 0.300000012
+			sci = 3
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedVABSouthComplex
+			title = Atmosphärendruck-Scan von FZF-Südkomplex
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedVABSouthComplex
+			title = Temperaturscan von FZF-Südkomplex
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedVABSouthComplex
+			title = Oberflächenprobe von FZF-Südkomplex
+			dsc = 1
+			scv = 0.25
+			sbv = 0.300000012
+			sci = 9
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedVABSouthComplex
+			title = EVA-Bericht von FZF-Südkomplex
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedVABMainBuilding
+			title = Seismischer Scan von FZF-Hauptgebäude
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedVABMainBuilding
+			title = Schwerkraft-Scan von FZF-Hauptgebäude
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedCrawlerway
+			title = Seismischer Scan von Crawlerway
+			dsc = 2.5
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedCrawlerway
+			title = Schwerkraft-Scan von Crawlerway
+			dsc = 3
+			scv = 0.000751307467
+			sbv = 0.300000012
+			sci = 6.59504175
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedLaunchPad
+			title = Schwerkraft-Scan von Startrampe
+			dsc = 3
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceHighPoles
+			title = Schwerkraft-Scan im Weltraum hoch über Muns Pole
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 2
+			sci = 40
+			asc = True
+			cap = 44
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowPoles
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Pole
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowPolarLowlands
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Polarflachland
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowPolarCrater
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Polarkrater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowFarsideCrater
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Rück-Krater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowHighlandCraters
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Hochland-Krater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowNorthernBasin
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Nordostbecken
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = gravityScan@MunInSpaceLowSouthwestCrater
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Muns Südwestlicher Krater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 3
+			sci = 60
+			asc = True
+			cap = 66
+		}
+		Science
+		{
+			id = crewReport@MunSrfLandedSouthwestCrater
+			title = Crewbericht von Muns Südwestlicher Krater
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 20
+			asc = True
+			cap = 20
+		}
+		Science
+		{
+			id = atmosphereAnalysis@MunSrfLandedSouthwestCrater
+			title = Atmosphärenanalyse von Muns Südwestlicher Krater
+			dsc = 10
+			scv = 1
+			sbv = 4
+			sci = 0
+			asc = True
+			cap = 96
+		}
+		Science
+		{
+			id = mobileMaterialsLab@MunSrfLandedSouthwestCrater
+			title = Materialuntersuchung von Muns Südwestlicher Krater
+			dsc = 1
+			scv = 0.21875
+			sbv = 4
+			sci = 100
+			asc = True
+			cap = 128
+		}
+		Science
+		{
+			id = gravityScan@MunSrfLandedSouthwestCrater
+			title = Schwerkraft-Scan von Muns Südwestlicher Krater
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = barometerScan@MunSrfLandedSouthwestCrater
+			title = Atmosphärendruck-Scan von Muns Südwestlicher Krater
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 48
+			asc = True
+			cap = 48
+		}
+		Science
+		{
+			id = mysteryGoo@MunSrfLandedSouthwestCrater
+			title = Mysteriöser Schleim™-Beobachtung von Muns Südwestlicher Krater
+			dsc = 1
+			scv = 0.230769232
+			sbv = 4
+			sci = 40
+			asc = True
+			cap = 52
+		}
+		Science
+		{
+			id = seismicScan@MunSrfLandedSouthwestCrater
+			title = Seismischer Scan von Muns Südwestlicher Krater
+			dsc = 2.5
+			scv = 0.0909090936
+			sbv = 4
+			sci = 80
+			asc = True
+			cap = 88
+		}
+		Science
+		{
+			id = temperatureScan@MunSrfLandedSouthwestCrater
+			title = Temperaturscan von Muns Südwestlicher Krater
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = surfaceSample@MunSrfLandedSouthwestCrater
+			title = Oberflächenprobe von Muns Südwestlicher Krater
+			dsc = 1
+			scv = 0.25
+			sbv = 4
+			sci = 120
+			asc = True
+			cap = 160
+		}
+		Science
+		{
+			id = evaReport@MunSrfLandedSouthwestCrater
+			title = EVA-Bericht von Muns Südwestlicher Krater
+			dsc = 1
+			scv = 0
+			sbv = 4
+			sci = 32
+			asc = True
+			cap = 32
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighIceCaps
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Eiskappen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 1.5
+			sci = 30
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighNorthernIceShelf
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Nördliches Schelfeis
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 1.5
+			sci = 30
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighTundra
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Tundra
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 1.5
+			sci = 30
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceHighSouthernIceShelf
+			title = Schwerkraft-Scan im Weltraum hoch über Kerbins Südliches Schelfeis
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 1.5
+			sci = 30
+			asc = True
+			cap = 33
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowTundra
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Tundra
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 1
+			sci = 20
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowNorthernIceShelf
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Nördliches Schelfeis
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 1
+			sci = 20
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowSouthernIceShelf
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Südliches Schelfeis
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 1
+			sci = 20
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = gravityScan@KerbinInSpaceLowIceCaps
+			title = Schwerkraft-Scan aus dem Weltraum direkt über Kerbins Eiskappen
+			dsc = 3
+			scv = 0.0909090936
+			sbv = 1
+			sci = 20
+			asc = True
+			cap = 22
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedSouthernIceShelf
+			title = Materialuntersuchung von Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedSouthernIceShelf
+			title = Schwerkraft-Scan von Kerbins Südliches Schelfeis
+			dsc = 3
+			scv = 0.0909091458
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedSouthernIceShelf
+			title = Oberflächenprobe von Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0.25
+			sbv = 0.300000012
+			sci = 9
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedSouthernIceShelf
+			title = EVA-Bericht von Kerbins Südliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedIslandAirfield
+			title = Schwerkraft-Scan von Island Airfield
+			dsc = 3
+			scv = 0.0909091458
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedGrasslands
+			title = Schwerkraft-Scan von Kerbins Grasland
+			dsc = 3
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedSPH
+			title = Schwerkraft-Scan von RSH
+			dsc = 3
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedMissionControl
+			title = Schwerkraft-Scan von Missionszentrum
+			dsc = 3
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedSPHMainBuilding
+			title = Seismischer Scan von RSH-Hauptgebäude
+			dsc = 2.5
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedSPHMainBuilding
+			title = Schwerkraft-Scan von RSH-Hauptgebäude
+			dsc = 3
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&DSmallLab
+			title = Crewbericht von Kleines F&E-Labor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&DSmallLab
+			title = Atmosphärenanalyse von Kleines F&E-Labor
+			dsc = 10
+			scv = 0.0277778171
+			sbv = 0.300000012
+			sci = 7
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&DSmallLab
+			title = Seismischer Scan von Kleines F&E-Labor
+			dsc = 2.5
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&DSmallLab
+			title = Schwerkraft-Scan von Kleines F&E-Labor
+			dsc = 3
+			scv = 0.00826445408
+			sbv = 0.300000012
+			sci = 6.54545498
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&DSmallLab
+			title = Mysteriöser Schleim™-Beobachtung von Kleines F&E-Labor
+			dsc = 1
+			scv = 0.0532544553
+			sbv = 0.300000012
+			sci = 3.69230771
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&DSmallLab
+			title = Temperaturscan von Kleines F&E-Labor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&DSmallLab
+			title = Atmosphärendruck-Scan von Kleines F&E-Labor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&DSmallLab
+			title = Oberflächenprobe von Kleines F&E-Labor
+			dsc = 1
+			scv = 0.0625
+			sbv = 0.300000012
+			sci = 11.25
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&DSmallLab
+			title = EVA-Bericht von Kleines F&E-Labor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfSplashedShores
+			title = Schwerkraft-Scan von Kerbins Küsten
+			dsc = 3
+			scv = 0.0909091085
+			sbv = 0.400000006
+			sci = 8
+			asc = True
+			cap = 8.80000019
+		}
+		Science
+		{
+			id = crewReport@KerbinFlyingLowNorthernIceShelf
+			title = Crewbericht Flug über Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 3.5
+			asc = True
+			cap = 3.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinFlyingLowNorthernIceShelf
+			title = Atmosphärenanalyse Flug über Kerbins Nördliches Schelfeis
+			dsc = 10
+			scv = 0.166666627
+			sbv = 0.699999988
+			sci = 14
+			asc = True
+			cap = 16.7999992
+		}
+		Science
+		{
+			id = temperatureScan@KerbinFlyingLowNorthernIceShelf
+			title = Temperaturscan Flug über Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = evaReport@KerbinFlyingLowNorthernIceShelf
+			title = EVA-Bericht Flug über Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.699999988
+			sci = 5.5999999
+			asc = True
+			cap = 5.5999999
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedNorthernIceShelf
+			title = Crewbericht von Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = mobileMaterialsLab@KerbinSrfLandedNorthernIceShelf
+			title = Materialuntersuchung von Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0.218749985
+			sbv = 0.300000012
+			sci = 7.50000048
+			asc = True
+			cap = 9.60000038
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedNorthernIceShelf
+			title = Atmosphärenanalyse von Kerbins Nördliches Schelfeis
+			dsc = 10
+			scv = 0.166666701
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedNorthernIceShelf
+			title = Temperaturscan von Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedNorthernIceShelf
+			title = Mysteriöser Schleim™-Beobachtung von Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0.230769247
+			sbv = 0.300000012
+			sci = 3
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedNorthernIceShelf
+			title = Atmosphärendruck-Scan von Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedNorthernIceShelf
+			title = Oberflächenprobe von Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0.25
+			sbv = 0.300000012
+			sci = 9
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedNorthernIceShelf
+			title = EVA-Bericht von Kerbins Nördliches Schelfeis
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = crewReport@KerbinSrfLandedR&DSideLab
+			title = Crewbericht von F&E-Seitenlabor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 1.5
+			asc = True
+			cap = 1.5
+		}
+		Science
+		{
+			id = atmosphereAnalysis@KerbinSrfLandedR&DSideLab
+			title = Atmosphärenanalyse von F&E-Seitenlabor
+			dsc = 10
+			scv = 0.166666701
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 7.20000029
+		}
+		Science
+		{
+			id = seismicScan@KerbinSrfLandedR&DSideLab
+			title = Seismischer Scan von F&E-Seitenlabor
+			dsc = 2.5
+			scv = 0.0909091458
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = gravityScan@KerbinSrfLandedR&DSideLab
+			title = Schwerkraft-Scan von F&E-Seitenlabor
+			dsc = 3
+			scv = 0.0909091458
+			sbv = 0.300000012
+			sci = 6
+			asc = True
+			cap = 6.60000038
+		}
+		Science
+		{
+			id = mysteryGoo@KerbinSrfLandedR&DSideLab
+			title = Mysteriöser Schleim™-Beobachtung von F&E-Seitenlabor
+			dsc = 1
+			scv = 0.230769247
+			sbv = 0.300000012
+			sci = 3
+			asc = True
+			cap = 3.9000001
+		}
+		Science
+		{
+			id = temperatureScan@KerbinSrfLandedR&DSideLab
+			title = Temperaturscan von F&E-Seitenlabor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
+		Science
+		{
+			id = barometerScan@KerbinSrfLandedR&DSideLab
+			title = Atmosphärendruck-Scan von F&E-Seitenlabor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 3.60000014
+			asc = True
+			cap = 3.60000014
+		}
+		Science
+		{
+			id = surfaceSample@KerbinSrfLandedR&DSideLab
+			title = Oberflächenprobe von F&E-Seitenlabor
+			dsc = 1
+			scv = 0.25
+			sbv = 0.300000012
+			sci = 9
+			asc = True
+			cap = 12
+		}
+		Science
+		{
+			id = evaReport@KerbinSrfLandedR&DSideLab
+			title = EVA-Bericht von F&E-Seitenlabor
+			dsc = 1
+			scv = 0
+			sbv = 0.300000012
+			sci = 2.4000001
+			asc = True
+			cap = 2.4000001
+		}
