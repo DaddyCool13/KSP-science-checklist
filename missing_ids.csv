@@ -1,0 +1,17 @@
+id;title;dsc;scv;sbv;sci;asc;cap
+evaScience@KerbinSrfSplashed;EVA-Forschungsexperiment aus den Ozeanen von Kerbin;1;0;0.400000006;10;True;10
+evaScience@KerbinFlyingLow;EVA-Forschungsexperiment beim Flug auf Kerbin;1;0;0.699999988;17.5;True;17.5
+evaReport@KerbinFlyingLowR&D;EVA-Bericht Flug über Kerbins F&E;1;0;0.699999988;5.5999999;True;5.5999999
+evaReport@KerbinFlyingLowTrackingStation;EVA-Bericht Flug über Kerbins Ortungsstation;1;0;0.699999988;5.5999999;True;5.5999999
+evaReport@KerbinFlyingLowRunway;EVA-Bericht Flug über Kerbins Startbahn;1;0;0.699999988;5.5999999;True;5.5999999
+evaReport@KerbinFlyingLowAstronautComplex;EVA-Bericht Flug über Kerbins Astronauten-Komplex;1;0;0.699999988;5.5999999;True;5.5999999
+evaScience@KerbinFlyingHigh;EVA-Forschungsexperiment aus der oberen Atmosphäre von Kerbin;1;0;0.899999976;22.5;True;22.5
+evaReport@KerbinFlyingLowTrackingStationDishSouth;EVA-Bericht Flug über Kerbins Ortungsstation-Schüssel (Süd);1;0;0.699999988;5.5999999;True;5.5999999
+crewReport@KerbinFlyingLowAstronautComplex;Crewbericht Flug über Kerbins Astronauten-Komplex;1;0;0.699999988;3.5;True;3.5
+temperatureScan@KerbinFlyingLowAstronautComplex;Temperaturscan Flug über Kerbins Astronauten-Komplex;1;0;0.699999988;5.5999999;True;5.5999999
+atmosphereAnalysis@KerbinFlyingLowAstronautComplex;Atmosphärenanalyse Flug über Kerbins Astronauten-Komplex;10;0.166666627;0.699999988;14;True;16.7999992
+crewReport@KerbinFlyingLowIslandAirfield;Crewbericht Flug über Kerbins Island Airfield;1;0;0.699999988;3.5;True;3.5
+temperatureScan@KerbinFlyingLowIslandAirfield;Temperaturscan Flug über Kerbins Island Airfield;1;0;0.699999988;5.5999999;True;5.5999999
+atmosphereAnalysis@KerbinFlyingLowIslandAirfield;Atmosphärenanalyse Flug über Kerbins Island Airfield;10;0.166666627;0.699999988;14;True;16.7999992
+crewReport@KerbinFlyingLowLaunchPad;Crewbericht Flug über Kerbins Startrampe;1;0;0.699999988;3.5;True;3.5
+temperatureScan@KerbinFlyingLowLaunchPad;Temperaturscan Flug über Kerbins Startrampe;1;0;0.699999988;5.5999999;True;5.5999999
